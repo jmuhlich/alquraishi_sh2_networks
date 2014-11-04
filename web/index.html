@@ -1,13 +1,24 @@
 <!DOCTYPE html>
 <html>
-<head>
-<link href="style.css" rel="stylesheet" />
-<meta charset=utf-8 />
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-<script src="http://cytoscape.github.io/cytoscape.js/api/cytoscape.js-latest/cytoscape.min.js"></script>
-<script src="code.js"></script>
-</head>
-<body>
-<div id="cy"></div>
-</body>
+  <head>
+    <meta charset=utf-8 />
+    <link href="style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+    <script src="http://cytoscape.github.io/cytoscape.js/api/cytoscape.js-2.3.4/cytoscape.min.js"></script>
+    <script src="code.js"></script>
+  </head>
+
+  <body>
+    <div class="network-wrapper">
+      <div id="cy"></div>
+      <div class="slider-wrapper">
+        <label for="cutoff">Probability cutoff:</label>
+        <input readonly id="cutoff" />
+        <div id="slider"></div>
+      </div>
+    </div>
+  </body>
+
 </html>

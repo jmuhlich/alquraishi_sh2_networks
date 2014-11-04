@@ -2,8 +2,28 @@ body {
   font: 14px helvetica neue, helvetica, arial, sans-serif;
 }
 
+.network-wrapper {
+  display: inline-block;
+}
+
 #cy {
   height: 800px;
   width: 800px;
   border: 1px solid gray;
+}
+
+.slider-wrapper {
+  margin: 1em;
+}
+
+#cutoff {
+  width: 2em;
+  border: 0;
+  font-weight: bold;
+}
+
+#slider {
+  margin-left: 1em;
+  width: 300px;
+  display: inline-block;
 }

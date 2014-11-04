@@ -1,4 +1,9 @@
-$(function() {
+(function($, window, document) {
+
+  var SLIDER_PREC_DIGITS = 2;
+  var SLIDER_SCALING = Math.pow(10, SLIDER_PREC_DIGITS);
+  var CUTOFF_MIN = 0.53;
+  var CUTOFF_MAX = 1.0;
 
   function initGraph(data, textStatus, jqXHR) {
 
@@ -65,9 +70,35 @@ $(function() {
 
   }
 
-  // get exported json from cytoscape desktop via ajax
-  $.get('../output/wt_85.cyjs', initGraph, 'json');
+  // slide event handler for slider
+  function slideCutoff(event, ui) {
+    var cutoff = ui.value / SLIDER_SCALING;
+    if (cutoff < CUTOFF_MIN | slider > CUTOFF_MAX) {
+      return false;
+    }
+    updateCutoff(cutoff);
+  }
 
-}()
+  function updateCutoff(cutoff) {
+    $("#cutoff").val(cutoff.toFixed(SLIDER_PREC_DIGITS));
+  }
 
-);
+  $("document").ready(function() {
+
+    // Get exported json from cytoscape desktop via ajax.
+    $.get('../output/wt_85.cyjs', initGraph, 'json');
+
+    // Set up slider for probability cutoff.
+    $slider = $("#slider");
+    $slider.slider({
+      value: 0.85 * SLIDER_SCALING,
+      min: 0.0,
+      max: 1.0 * SLIDER_SCALING,
+      slide: slideCutoff,
+    });
+    updateCutoff($slider.slider("value") / SLIDER_SCALING);
+
+  });
+
+
+}(jQuery, window, document));
