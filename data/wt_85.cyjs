@@ -1,0 +1,7242 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.1.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "wt_85.gml",
+    "SUID" : 52,
+    "selected" : true,
+    "name" : "wt_85.gml"
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "232",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "VSTM4",
+        "SUID" : 232,
+        "name" : "VSTM4"
+      },
+      "position" : {
+        "x" : 433.64666155805344,
+        "y" : 486.77903091068333
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "231",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "VAV1",
+        "SUID" : 231,
+        "name" : "VAV1"
+      },
+      "position" : {
+        "x" : 768.9112297898646,
+        "y" : 735.8775700127518
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "230",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "UNC5C",
+        "SUID" : 230,
+        "name" : "UNC5C"
+      },
+      "position" : {
+        "x" : 1040.672376459954,
+        "y" : 579.0453274330733
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "229",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "TWF2",
+        "SUID" : 229,
+        "name" : "TWF2"
+      },
+      "position" : {
+        "x" : 540.0,
+        "y" : 741.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "228",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "TWF1",
+        "SUID" : 228,
+        "name" : "TWF1"
+      },
+      "position" : {
+        "x" : 611.0026153170855,
+        "y" : 665.6421600735396
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "227",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "TOM1L1",
+        "SUID" : 227,
+        "name" : "TOM1L1"
+      },
+      "position" : {
+        "x" : 607.0,
+        "y" : 350.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "226",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "TNS1",
+        "SUID" : 226,
+        "name" : "TNS1"
+      },
+      "position" : {
+        "x" : 744.1294513914129,
+        "y" : 1186.4685649764908
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "225",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "TNK2",
+        "SUID" : 225,
+        "name" : "TNK2"
+      },
+      "position" : {
+        "x" : 597.0,
+        "y" : 1225.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "224",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "TJP2",
+        "SUID" : 224,
+        "name" : "TJP2"
+      },
+      "position" : {
+        "x" : 729.898793723199,
+        "y" : 1098.0229249171095
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "223",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "SPTAN1",
+        "SUID" : 223,
+        "name" : "SPTAN1"
+      },
+      "position" : {
+        "x" : 446.1427014650835,
+        "y" : 582.483571169871
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "222",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "SOCS3",
+        "SUID" : 222,
+        "name" : "SOCS3"
+      },
+      "position" : {
+        "x" : 842.5,
+        "y" : 651.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "221",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "SLC4A4",
+        "SUID" : 221,
+        "name" : "SLC4A4"
+      },
+      "position" : {
+        "x" : 1096.5054518983532,
+        "y" : 605.4605415264043
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "220",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "SLC4A1",
+        "SUID" : 220,
+        "name" : "SLC4A1"
+      },
+      "position" : {
+        "x" : 74.0,
+        "y" : 1173.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "219",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "SLAMF6",
+        "SUID" : 219,
+        "name" : "SLAMF6"
+      },
+      "position" : {
+        "x" : 978.9840267666723,
+        "y" : 575.9399513486236
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "218",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "SLAMF1",
+        "SUID" : 218,
+        "name" : "SLAMF1"
+      },
+      "position" : {
+        "x" : 1213.0,
+        "y" : 977.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "217",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "SLA",
+        "SUID" : 217,
+        "name" : "SLA"
+      },
+      "position" : {
+        "x" : 601.0,
+        "y" : 468.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "216",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "SIT1",
+        "SUID" : 216,
+        "name" : "SIT1"
+      },
+      "position" : {
+        "x" : 817.3604532297791,
+        "y" : 574.7869467971701
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "215",
+        "is_ppb" : 0,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "SHD",
+        "SUID" : 215,
+        "name" : "SHD"
+      },
+      "position" : {
+        "x" : 384.5,
+        "y" : 867.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "214",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "SHB",
+        "SUID" : 214,
+        "name" : "SHB"
+      },
+      "position" : {
+        "x" : 644.0,
+        "y" : 838.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "213",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "SH2D4A",
+        "SUID" : 213,
+        "name" : "SH2D4A"
+      },
+      "position" : {
+        "x" : 572.0,
+        "y" : 1.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "212",
+        "is_ppb" : 0,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "SH2D1B",
+        "SUID" : 212,
+        "name" : "SH2D1B"
+      },
+      "position" : {
+        "x" : 1002.0,
+        "y" : 733.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "211",
+        "is_ppb" : 0,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "SH2D1A",
+        "SUID" : 211,
+        "name" : "SH2D1A"
+      },
+      "position" : {
+        "x" : 1046.0,
+        "y" : 1047.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "210",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "SH2B1",
+        "SUID" : 210,
+        "name" : "SH2B1"
+      },
+      "position" : {
+        "x" : 267.0,
+        "y" : 0.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "209",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "RPL38",
+        "SUID" : 209,
+        "name" : "RPL38"
+      },
+      "position" : {
+        "x" : 1138.0297263242396,
+        "y" : 651.1861413793331
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "208",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "RNPS1",
+        "SUID" : 208,
+        "name" : "RNPS1"
+      },
+      "position" : {
+        "x" : 920.7804599561732,
+        "y" : 596.6145894117733
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "207",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "RGS20",
+        "SUID" : 207,
+        "name" : "RGS20"
+      },
+      "position" : {
+        "x" : 797.0673083908567,
+        "y" : 582.3766764638401
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "206",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "RB1",
+        "SUID" : 206,
+        "name" : "RB1"
+      },
+      "position" : {
+        "x" : 556.0,
+        "y" : 187.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "205",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "RASGRP4",
+        "SUID" : 205,
+        "name" : "RASGRP4"
+      },
+      "position" : {
+        "x" : 693.945562184002,
+        "y" : 1054.8975712422423
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "204",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "RASA1",
+        "SUID" : 204,
+        "name" : "RASA1"
+      },
+      "position" : {
+        "x" : 700.0,
+        "y" : 1117.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "203",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "R3HCC1L",
+        "SUID" : 203,
+        "name" : "R3HCC1L"
+      },
+      "position" : {
+        "x" : 888.529805540315,
+        "y" : 719.2242405741595
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "202",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "PTPN6",
+        "SUID" : 202,
+        "name" : "PTPN6"
+      },
+      "position" : {
+        "x" : 1208.0,
+        "y" : 594.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "201",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "PTPN11",
+        "SUID" : 201,
+        "name" : "PTPN11"
+      },
+      "position" : {
+        "x" : 1050.5,
+        "y" : 696.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "200",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "PTK6",
+        "SUID" : 200,
+        "name" : "PTK6"
+      },
+      "position" : {
+        "x" : 727.5,
+        "y" : 807.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "199",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "PTK2B",
+        "SUID" : 199,
+        "name" : "PTK2B"
+      },
+      "position" : {
+        "x" : 854.0,
+        "y" : 940.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "198",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "PREP",
+        "SUID" : 198,
+        "name" : "PREP"
+      },
+      "position" : {
+        "x" : 823.0,
+        "y" : 1331.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "POTEE",
+        "SUID" : 197,
+        "name" : "POTEE"
+      },
+      "position" : {
+        "x" : 1158.9581277432053,
+        "y" : 709.2989442936058
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "196",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "PLEKHS1",
+        "SUID" : 196,
+        "name" : "PLEKHS1"
+      },
+      "position" : {
+        "x" : 70.0,
+        "y" : 1056.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "195",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "PLD2",
+        "SUID" : 195,
+        "name" : "PLD2"
+      },
+      "position" : {
+        "x" : 582.5924409271456,
+        "y" : 571.5424891673115
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "194",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "PLCG1",
+        "SUID" : 194,
+        "name" : "PLCG1"
+      },
+      "position" : {
+        "x" : 652.5,
+        "y" : 1126.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "193",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "PKP4",
+        "SUID" : 193,
+        "name" : "PKP4"
+      },
+      "position" : {
+        "x" : 746.0,
+        "y" : 1066.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "192",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "PIK3R3",
+        "SUID" : 192,
+        "name" : "PIK3R3"
+      },
+      "position" : {
+        "x" : 232.0,
+        "y" : 1157.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "191",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "PIK3R2",
+        "SUID" : 191,
+        "name" : "PIK3R2"
+      },
+      "position" : {
+        "x" : 217.0,
+        "y" : 1217.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "190",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "PIK3R1",
+        "SUID" : 190,
+        "name" : "PIK3R1"
+      },
+      "position" : {
+        "x" : 169.5,
+        "y" : 1109.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "189",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "PECAM1",
+        "SUID" : 189,
+        "name" : "PECAM1"
+      },
+      "position" : {
+        "x" : 874.8741121258541,
+        "y" : 637.9389536221062
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "188",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "PEAK1",
+        "SUID" : 188,
+        "name" : "PEAK1"
+      },
+      "position" : {
+        "x" : 605.0,
+        "y" : 606.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "187",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "PDGFRB",
+        "SUID" : 187,
+        "name" : "PDGFRB"
+      },
+      "position" : {
+        "x" : 340.0,
+        "y" : 1225.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "186",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "PDGFRA",
+        "SUID" : 186,
+        "name" : "PDGFRA"
+      },
+      "position" : {
+        "x" : 387.0,
+        "y" : 1130.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "185",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "PCNA",
+        "SUID" : 185,
+        "name" : "PCNA"
+      },
+      "position" : {
+        "x" : 851.7181271007705,
+        "y" : 638.5054288613303
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "184",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "PALMD",
+        "SUID" : 184,
+        "name" : "PALMD"
+      },
+      "position" : {
+        "x" : 718.0,
+        "y" : 942.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "183",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "PAG1",
+        "SUID" : 183,
+        "name" : "PAG1"
+      },
+      "position" : {
+        "x" : 656.0,
+        "y" : 494.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "182",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "OSMR",
+        "SUID" : 182,
+        "name" : "OSMR"
+      },
+      "position" : {
+        "x" : 729.8290060585659,
+        "y" : 1154.1693951300745
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "181",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "NYAP2",
+        "SUID" : 181,
+        "name" : "NYAP2"
+      },
+      "position" : {
+        "x" : 40.0,
+        "y" : 1016.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "180",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "NEDD9",
+        "SUID" : 180,
+        "name" : "NEDD9"
+      },
+      "position" : {
+        "x" : 712.0,
+        "y" : 1136.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "179",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "NCK2",
+        "SUID" : 179,
+        "name" : "NCK2"
+      },
+      "position" : {
+        "x" : 631.0,
+        "y" : 910.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "178",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "MST1R",
+        "SUID" : 178,
+        "name" : "MST1R"
+      },
+      "position" : {
+        "x" : 225.66595079697453,
+        "y" : 1048.8445682330196
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "177",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "MPZL1",
+        "SUID" : 177,
+        "name" : "MPZL1"
+      },
+      "position" : {
+        "x" : 1119.5461718677175,
+        "y" : 740.7874552795046
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "176",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "MPZ",
+        "SUID" : 176,
+        "name" : "MPZ"
+      },
+      "position" : {
+        "x" : 1296.0,
+        "y" : 741.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "175",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "MET",
+        "SUID" : 175,
+        "name" : "MET"
+      },
+      "position" : {
+        "x" : 134.0,
+        "y" : 1362.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "174",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "MEGF10",
+        "SUID" : 174,
+        "name" : "MEGF10"
+      },
+      "position" : {
+        "x" : 425.0,
+        "y" : 1243.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "173",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "LYN",
+        "SUID" : 173,
+        "name" : "LYN"
+      },
+      "position" : {
+        "x" : 1156.1219465686752,
+        "y" : 771.0002564745612
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "172",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "LY9",
+        "SUID" : 172,
+        "name" : "LY9"
+      },
+      "position" : {
+        "x" : 848.2155325098668,
+        "y" : 693.656239820956
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "171",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "LY6G6F",
+        "SUID" : 171,
+        "name" : "LY6G6F"
+      },
+      "position" : {
+        "x" : 684.0,
+        "y" : 367.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "170",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "LIMD1",
+        "SUID" : 170,
+        "name" : "LIMD1"
+      },
+      "position" : {
+        "x" : 225.0,
+        "y" : 726.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "169",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "LCK",
+        "SUID" : 169,
+        "name" : "LCK"
+      },
+      "position" : {
+        "x" : 654.0,
+        "y" : 450.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "168",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "LAT2",
+        "SUID" : 168,
+        "name" : "LAT2"
+      },
+      "position" : {
+        "x" : 546.4870655221389,
+        "y" : 634.2871827855743
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "167",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "LAT",
+        "SUID" : 167,
+        "name" : "LAT"
+      },
+      "position" : {
+        "x" : 887.0,
+        "y" : 981.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "166",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "KIT",
+        "SUID" : 166,
+        "name" : "KIT"
+      },
+      "position" : {
+        "x" : 212.0,
+        "y" : 1398.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "165",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "KIF23",
+        "SUID" : 165,
+        "name" : "KIF23"
+      },
+      "position" : {
+        "x" : 1129.9506009056004,
+        "y" : 826.9480581712351
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "164",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "KDR",
+        "SUID" : 164,
+        "name" : "KDR"
+      },
+      "position" : {
+        "x" : 844.8410206373817,
+        "y" : 755.3304525693077
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "163",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "JAK3",
+        "SUID" : 163,
+        "name" : "JAK3"
+      },
+      "position" : {
+        "x" : 520.6603504022097,
+        "y" : 445.016272461164
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "162",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "IRS4",
+        "SUID" : 162,
+        "name" : "IRS4"
+      },
+      "position" : {
+        "x" : 76.0,
+        "y" : 1308.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "161",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "IRS2",
+        "SUID" : 161,
+        "name" : "IRS2"
+      },
+      "position" : {
+        "x" : 0.0,
+        "y" : 1228.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "160",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "IRS1",
+        "SUID" : 160,
+        "name" : "IRS1"
+      },
+      "position" : {
+        "x" : 337.0,
+        "y" : 1282.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "159",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "IKBKB",
+        "SUID" : 159,
+        "name" : "IKBKB"
+      },
+      "position" : {
+        "x" : 638.7026982016016,
+        "y" : 1044.8647766806307
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "158",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "HSPA8",
+        "SUID" : 158,
+        "name" : "HSPA8"
+      },
+      "position" : {
+        "x" : 1084.406619579571,
+        "y" : 868.6714522503457
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "157",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "HSFY2",
+        "SUID" : 157,
+        "name" : "HSFY2"
+      },
+      "position" : {
+        "x" : 388.6788466900606,
+        "y" : 1000.0611502330497
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "156",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "HGS",
+        "SUID" : 156,
+        "name" : "HGS"
+      },
+      "position" : {
+        "x" : 693.7686798304636,
+        "y" : 1197.2052390281128
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "155",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "HCK",
+        "SUID" : 155,
+        "name" : "HCK"
+      },
+      "position" : {
+        "x" : 492.0,
+        "y" : 565.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "154",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GSTP1",
+        "SUID" : 154,
+        "name" : "GSTP1"
+      },
+      "position" : {
+        "x" : 267.0,
+        "y" : 853.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "153",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "GRB7",
+        "SUID" : 153,
+        "name" : "GRB7"
+      },
+      "position" : {
+        "x" : 161.0,
+        "y" : 620.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "152",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "GRB2",
+        "SUID" : 152,
+        "name" : "GRB2"
+      },
+      "position" : {
+        "x" : 162.0,
+        "y" : 760.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "151",
+        "is_ppb" : 0,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "GRB14",
+        "SUID" : 151,
+        "name" : "GRB14"
+      },
+      "position" : {
+        "x" : 379.0,
+        "y" : 632.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "150",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "GRB10",
+        "SUID" : 150,
+        "name" : "GRB10"
+      },
+      "position" : {
+        "x" : 854.2101082554549,
+        "y" : 710.8537857211155
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "149",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "GRAP2",
+        "SUID" : 149,
+        "name" : "GRAP2"
+      },
+      "position" : {
+        "x" : 698.5,
+        "y" : 680.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "148",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GPR65",
+        "SUID" : 148,
+        "name" : "GPR65"
+      },
+      "position" : {
+        "x" : 865.2615017294083,
+        "y" : 813.6236751640198
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "147",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GIT1",
+        "SUID" : 147,
+        "name" : "GIT1"
+      },
+      "position" : {
+        "x" : 686.710999432889,
+        "y" : 878.4810984298382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "146",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GCSAM",
+        "SUID" : 146,
+        "name" : "GCSAM"
+      },
+      "position" : {
+        "x" : 757.0,
+        "y" : 520.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "145",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GAGE7",
+        "SUID" : 145,
+        "name" : "GAGE7"
+      },
+      "position" : {
+        "x" : 817.0,
+        "y" : 1536.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "144",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GAGE6",
+        "SUID" : 144,
+        "name" : "GAGE6"
+      },
+      "position" : {
+        "x" : 666.0,
+        "y" : 1596.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "143",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GAGE5",
+        "SUID" : 143,
+        "name" : "GAGE5"
+      },
+      "position" : {
+        "x" : 735.0,
+        "y" : 1540.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "142",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GAGE4",
+        "SUID" : 142,
+        "name" : "GAGE4"
+      },
+      "position" : {
+        "x" : 781.0,
+        "y" : 1506.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "141",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GAGE12J",
+        "SUID" : 141,
+        "name" : "GAGE12J"
+      },
+      "position" : {
+        "x" : 838.0,
+        "y" : 1458.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "140",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GAGE12I",
+        "SUID" : 140,
+        "name" : "GAGE12I"
+      },
+      "position" : {
+        "x" : 838.0,
+        "y" : 1497.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "139",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GAGE12H",
+        "SUID" : 139,
+        "name" : "GAGE12H"
+      },
+      "position" : {
+        "x" : 586.0,
+        "y" : 1562.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "138",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GAGE12F",
+        "SUID" : 138,
+        "name" : "GAGE12F"
+      },
+      "position" : {
+        "x" : 709.0,
+        "y" : 1596.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "137",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GAGE12D",
+        "SUID" : 137,
+        "name" : "GAGE12D"
+      },
+      "position" : {
+        "x" : 626.0,
+        "y" : 1586.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "136",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GAGE12C",
+        "SUID" : 136,
+        "name" : "GAGE12C"
+      },
+      "position" : {
+        "x" : 685.0,
+        "y" : 1553.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "135",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GAGE12B",
+        "SUID" : 135,
+        "name" : "GAGE12B"
+      },
+      "position" : {
+        "x" : 564.0,
+        "y" : 1524.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "134",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GAGE1",
+        "SUID" : 134,
+        "name" : "GAGE1"
+      },
+      "position" : {
+        "x" : 629.0,
+        "y" : 1538.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "133",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GABRG2",
+        "SUID" : 133,
+        "name" : "GABRG2"
+      },
+      "position" : {
+        "x" : 342.707365618184,
+        "y" : 484.1010569925087
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "132",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GAB2",
+        "SUID" : 132,
+        "name" : "GAB2"
+      },
+      "position" : {
+        "x" : 493.0,
+        "y" : 1243.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "131",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "GAB1",
+        "SUID" : 131,
+        "name" : "GAB1"
+      },
+      "position" : {
+        "x" : 450.0,
+        "y" : 1293.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "130",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "G6B",
+        "SUID" : 130,
+        "name" : "G6B"
+      },
+      "position" : {
+        "x" : 1200.0,
+        "y" : 933.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "129",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "FYN",
+        "SUID" : 129,
+        "name" : "FYN"
+      },
+      "position" : {
+        "x" : 425.0,
+        "y" : 483.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "128",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "FYB",
+        "SUID" : 128,
+        "name" : "FYB"
+      },
+      "position" : {
+        "x" : 418.6962711699008,
+        "y" : 941.8592348215943
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "127",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "FRS2",
+        "SUID" : 127,
+        "name" : "FRS2"
+      },
+      "position" : {
+        "x" : 346.0,
+        "y" : 808.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "126",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "FRK",
+        "SUID" : 126,
+        "name" : "FRK"
+      },
+      "position" : {
+        "x" : 506.0,
+        "y" : 526.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "125",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "FLT3",
+        "SUID" : 125,
+        "name" : "FLT3"
+      },
+      "position" : {
+        "x" : 541.9967316963168,
+        "y" : 706.5390451319444
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "124",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "FLT1",
+        "SUID" : 124,
+        "name" : "FLT1"
+      },
+      "position" : {
+        "x" : 824.3181244291034,
+        "y" : 776.7852957395527
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "123",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "FLII",
+        "SUID" : 123,
+        "name" : "FLII"
+      },
+      "position" : {
+        "x" : 589.8813873692701,
+        "y" : 1072.594013891675
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "122",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "FGFR3",
+        "SUID" : 122,
+        "name" : "FGFR3"
+      },
+      "position" : {
+        "x" : 172.0,
+        "y" : 1335.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "121",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "FGFR1",
+        "SUID" : 121,
+        "name" : "FGFR1"
+      },
+      "position" : {
+        "x" : 336.0,
+        "y" : 905.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "FGD6",
+        "SUID" : 120,
+        "name" : "FGD6"
+      },
+      "position" : {
+        "x" : 331.0,
+        "y" : 728.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "119",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "FER",
+        "SUID" : 119,
+        "name" : "FER"
+      },
+      "position" : {
+        "x" : 648.0,
+        "y" : 27.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "118",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "ESYT2",
+        "SUID" : 118,
+        "name" : "ESYT2"
+      },
+      "position" : {
+        "x" : 101.0,
+        "y" : 1243.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "117",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "ERRFI1",
+        "SUID" : 117,
+        "name" : "ERRFI1"
+      },
+      "position" : {
+        "x" : 541.0,
+        "y" : 1189.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "116",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "ERBB3",
+        "SUID" : 116,
+        "name" : "ERBB3"
+      },
+      "position" : {
+        "x" : 27.0,
+        "y" : 1263.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "115",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "ERBB2IP",
+        "SUID" : 115,
+        "name" : "ERBB2IP"
+      },
+      "position" : {
+        "x" : 914.0,
+        "y" : 1154.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "114",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "ERBB2",
+        "SUID" : 114,
+        "name" : "ERBB2"
+      },
+      "position" : {
+        "x" : 638.5010459101238,
+        "y" : 1207.100673760392
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "EPOR",
+        "SUID" : 113,
+        "name" : "EPOR"
+      },
+      "position" : {
+        "x" : 831.0,
+        "y" : 756.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "112",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "EPB41",
+        "SUID" : 112,
+        "name" : "EPB41"
+      },
+      "position" : {
+        "x" : 1026.3856869455244,
+        "y" : 889.8532185785324
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "111",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "EMD",
+        "SUID" : 111,
+        "name" : "EMD"
+      },
+      "position" : {
+        "x" : 650.0,
+        "y" : 1241.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "110",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "EGFR",
+        "SUID" : 110,
+        "name" : "EGFR"
+      },
+      "position" : {
+        "x" : 570.2040899873427,
+        "y" : 1125.1795152721572
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "109",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "DOK7",
+        "SUID" : 109,
+        "name" : "DOK7"
+      },
+      "position" : {
+        "x" : 868.0,
+        "y" : 1365.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "108",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "DOK2",
+        "SUID" : 108,
+        "name" : "DOK2"
+      },
+      "position" : {
+        "x" : 611.0,
+        "y" : 842.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "107",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "DOK1",
+        "SUID" : 107,
+        "name" : "DOK1"
+      },
+      "position" : {
+        "x" : 514.0,
+        "y" : 980.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "DDR1",
+        "SUID" : 106,
+        "name" : "DDR1"
+      },
+      "position" : {
+        "x" : 493.1677962846583,
+        "y" : 1096.671517226651
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "105",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "DDB1",
+        "SUID" : 105,
+        "name" : "DDB1"
+      },
+      "position" : {
+        "x" : 524.3426331001831,
+        "y" : 957.0862662321663
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "DCBLD2",
+        "SUID" : 104,
+        "name" : "DCBLD2"
+      },
+      "position" : {
+        "x" : 490.0,
+        "y" : 937.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "DCBLD1",
+        "SUID" : 103,
+        "name" : "DCBLD1"
+      },
+      "position" : {
+        "x" : 722.0,
+        "y" : 1248.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "CTNND1",
+        "SUID" : 102,
+        "name" : "CTNND1"
+      },
+      "position" : {
+        "x" : 301.2801053341788,
+        "y" : 1112.5752658433944
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "CSF2RB",
+        "SUID" : 101,
+        "name" : "CSF2RB"
+      },
+      "position" : {
+        "x" : 589.7488183385782,
+        "y" : 1179.250156808175
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "CSF1R",
+        "SUID" : 100,
+        "name" : "CSF1R"
+      },
+      "position" : {
+        "x" : 48.0,
+        "y" : 1115.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "CRKL",
+        "SUID" : 99,
+        "name" : "CRKL"
+      },
+      "position" : {
+        "x" : 659.5,
+        "y" : 1399.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "CRK",
+        "SUID" : 98,
+        "name" : "CRK"
+      },
+      "position" : {
+        "x" : 660.0,
+        "y" : 1394.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "CPA6",
+        "SUID" : 97,
+        "name" : "CPA6"
+      },
+      "position" : {
+        "x" : 91.0,
+        "y" : 994.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "COPA",
+        "SUID" : 96,
+        "name" : "COPA"
+      },
+      "position" : {
+        "x" : 570.0553211032075,
+        "y" : 773.2714231120649
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "is_ppb" : 0,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "CLNK",
+        "SUID" : 95,
+        "name" : "CLNK"
+      },
+      "position" : {
+        "x" : 407.0,
+        "y" : 596.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "CLDN9",
+        "SUID" : 94,
+        "name" : "CLDN9"
+      },
+      "position" : {
+        "x" : 750.0,
+        "y" : 1585.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "CHD1",
+        "SUID" : 93,
+        "name" : "CHD1"
+      },
+      "position" : {
+        "x" : 629.9300086788069,
+        "y" : 1322.195666702558
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "CFL1",
+        "SUID" : 92,
+        "name" : "CFL1"
+      },
+      "position" : {
+        "x" : 394.0,
+        "y" : 300.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "CEACAM3",
+        "SUID" : 91,
+        "name" : "CEACAM3"
+      },
+      "position" : {
+        "x" : 540.9622895214155,
+        "y" : 600.5045522865597
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "CD84",
+        "SUID" : 90,
+        "name" : "CD84"
+      },
+      "position" : {
+        "x" : 906.385168967861,
+        "y" : 859.7098969810389
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "CD79A",
+        "SUID" : 89,
+        "name" : "CD79A"
+      },
+      "position" : {
+        "x" : 466.6877356437175,
+        "y" : 553.9607123477458
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "CD7",
+        "SUID" : 88,
+        "name" : "CD7"
+      },
+      "position" : {
+        "x" : 159.1080648868642,
+        "y" : 1118.7893235408949
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "CD28",
+        "SUID" : 87,
+        "name" : "CD28"
+      },
+      "position" : {
+        "x" : 34.0,
+        "y" : 1301.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "CD22",
+        "SUID" : 86,
+        "name" : "CD22"
+      },
+      "position" : {
+        "x" : 1102.0,
+        "y" : 541.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "85",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "CD19",
+        "SUID" : 85,
+        "name" : "CD19"
+      },
+      "position" : {
+        "x" : 34.0,
+        "y" : 1195.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "84",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "CD163L1",
+        "SUID" : 84,
+        "name" : "CD163L1"
+      },
+      "position" : {
+        "x" : 366.0,
+        "y" : 402.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "83",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "CBLB",
+        "SUID" : 83,
+        "name" : "CBLB"
+      },
+      "position" : {
+        "x" : 867.0,
+        "y" : 1314.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "82",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "CBL",
+        "SUID" : 82,
+        "name" : "CBL"
+      },
+      "position" : {
+        "x" : 236.31111056133057,
+        "y" : 1239.1870082539083
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "CASS4",
+        "SUID" : 81,
+        "name" : "CASS4"
+      },
+      "position" : {
+        "x" : 784.0,
+        "y" : 1561.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "CASP8",
+        "SUID" : 80,
+        "name" : "CASP8"
+      },
+      "position" : {
+        "x" : 0.0,
+        "y" : 1158.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "BUD31",
+        "SUID" : 79,
+        "name" : "BUD31"
+      },
+      "position" : {
+        "x" : 768.2589907552468,
+        "y" : 822.5877873980074
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "78",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "BTK",
+        "SUID" : 78,
+        "name" : "BTK"
+      },
+      "position" : {
+        "x" : 0.0,
+        "y" : 1110.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "77",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "BLK",
+        "SUID" : 77,
+        "name" : "BLK"
+      },
+      "position" : {
+        "x" : 456.0,
+        "y" : 551.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "BCAR1",
+        "SUID" : 76,
+        "name" : "BCAR1"
+      },
+      "position" : {
+        "x" : 621.0,
+        "y" : 1111.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "AXL",
+        "SUID" : 75,
+        "name" : "AXL"
+      },
+      "position" : {
+        "x" : 14.0,
+        "y" : 1061.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "ATPBD4",
+        "SUID" : 74,
+        "name" : "ATPBD4"
+      },
+      "position" : {
+        "x" : 324.0,
+        "y" : 174.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "ARHGAP12",
+        "SUID" : 73,
+        "name" : "ARHGAP12"
+      },
+      "position" : {
+        "x" : 624.8273206412505,
+        "y" : 820.6055838946409
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "72",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "AP2B1",
+        "SUID" : 72,
+        "name" : "AP2B1"
+      },
+      "position" : {
+        "x" : 93.0,
+        "y" : 1341.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "71",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "ANKS1A",
+        "SUID" : 71,
+        "name" : "ANKS1A"
+      },
+      "position" : {
+        "x" : 464.7742756107732,
+        "y" : 410.9493442109077
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "70",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "ANK1",
+        "SUID" : 70,
+        "name" : "ANK1"
+      },
+      "position" : {
+        "x" : 697.6916614411682,
+        "y" : 838.7354418364856
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "69",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "AKAP8",
+        "SUID" : 69,
+        "name" : "AKAP8"
+      },
+      "position" : {
+        "x" : 587.5112171384164,
+        "y" : 514.6328772059982
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "68",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "AIP",
+        "SUID" : 68,
+        "name" : "AIP"
+      },
+      "position" : {
+        "x" : 661.0,
+        "y" : 546.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "67",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "ADRBK1",
+        "SUID" : 67,
+        "name" : "ADRBK1"
+      },
+      "position" : {
+        "x" : 484.0,
+        "y" : 296.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "66",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "ACTG1",
+        "SUID" : 66,
+        "name" : "ACTG1"
+      },
+      "position" : {
+        "x" : 1022.0,
+        "y" : 903.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "65",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "ACTB",
+        "SUID" : 65,
+        "name" : "ACTB"
+      },
+      "position" : {
+        "x" : 1043.0,
+        "y" : 959.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "64",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 0,
+        "shared_name" : "ACTA1",
+        "SUID" : 64,
+        "name" : "ACTA1"
+      },
+      "position" : {
+        "x" : 964.6725869809386,
+        "y" : 887.286286310723
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "63",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "ABL2",
+        "SUID" : 63,
+        "name" : "ABL2"
+      },
+      "position" : {
+        "x" : 576.0,
+        "y" : 1062.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "62",
+        "is_ppb" : 1,
+        "selected" : false,
+        "is_sh2" : 1,
+        "shared_name" : "ABL1",
+        "SUID" : 62,
+        "name" : "ABL1"
+      },
+      "position" : {
+        "x" : 469.0,
+        "y" : 1018.0
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "565",
+        "source" : "222",
+        "target" : "229",
+        "selected" : false,
+        "SUID" : 565,
+        "name" : "SOCS3 (pp) TWF2",
+        "interaction" : "pp",
+        "probability" : 0.9477179,
+        "shared_interaction" : "pp",
+        "shared_name" : "SOCS3 (pp) TWF2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "564",
+        "source" : "222",
+        "target" : "228",
+        "selected" : false,
+        "SUID" : 564,
+        "name" : "SOCS3 (pp) TWF1",
+        "interaction" : "pp",
+        "probability" : 0.9471336,
+        "shared_interaction" : "pp",
+        "shared_name" : "SOCS3 (pp) TWF1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "563",
+        "source" : "222",
+        "target" : "207",
+        "selected" : false,
+        "SUID" : 563,
+        "name" : "SOCS3 (pp) RGS20",
+        "interaction" : "pp",
+        "probability" : 0.8759146,
+        "shared_interaction" : "pp",
+        "shared_name" : "SOCS3 (pp) RGS20"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "562",
+        "source" : "222",
+        "target" : "203",
+        "selected" : false,
+        "SUID" : 562,
+        "name" : "SOCS3 (pp) R3HCC1L",
+        "interaction" : "pp",
+        "probability" : 0.8500851,
+        "shared_interaction" : "pp",
+        "shared_name" : "SOCS3 (pp) R3HCC1L"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "561",
+        "source" : "222",
+        "target" : "86",
+        "selected" : false,
+        "SUID" : 561,
+        "name" : "SOCS3 (pp) CD22",
+        "interaction" : "pp",
+        "probability" : 0.8553639,
+        "shared_interaction" : "pp",
+        "shared_name" : "SOCS3 (pp) CD22"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "560",
+        "source" : "217",
+        "target" : "228",
+        "selected" : false,
+        "SUID" : 560,
+        "name" : "SLA (pp) TWF1",
+        "interaction" : "pp",
+        "probability" : 0.8992208,
+        "shared_interaction" : "pp",
+        "shared_name" : "SLA (pp) TWF1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "559",
+        "source" : "215",
+        "target" : "229",
+        "selected" : false,
+        "SUID" : 559,
+        "name" : "SHD (pp) TWF2",
+        "interaction" : "pp",
+        "probability" : 0.8855466,
+        "shared_interaction" : "pp",
+        "shared_name" : "SHD (pp) TWF2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "558",
+        "source" : "215",
+        "target" : "170",
+        "selected" : false,
+        "SUID" : 558,
+        "name" : "SHD (pp) LIMD1",
+        "interaction" : "pp",
+        "probability" : 0.90120745,
+        "shared_interaction" : "pp",
+        "shared_name" : "SHD (pp) LIMD1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "557",
+        "source" : "215",
+        "target" : "128",
+        "selected" : false,
+        "SUID" : 557,
+        "name" : "SHD (pp) FYB",
+        "interaction" : "pp",
+        "probability" : 0.858019,
+        "shared_interaction" : "pp",
+        "shared_name" : "SHD (pp) FYB"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "556",
+        "source" : "215",
+        "target" : "127",
+        "selected" : false,
+        "SUID" : 556,
+        "name" : "SHD (pp) FRS2",
+        "interaction" : "pp",
+        "probability" : 0.85358214,
+        "shared_interaction" : "pp",
+        "shared_name" : "SHD (pp) FRS2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "555",
+        "source" : "215",
+        "target" : "120",
+        "selected" : false,
+        "SUID" : 555,
+        "name" : "SHD (pp) FGD6",
+        "interaction" : "pp",
+        "probability" : 0.8957657,
+        "shared_interaction" : "pp",
+        "shared_name" : "SHD (pp) FGD6"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "554",
+        "source" : "215",
+        "target" : "76",
+        "selected" : false,
+        "SUID" : 554,
+        "name" : "SHD (pp) BCAR1",
+        "interaction" : "pp",
+        "probability" : 0.86190844,
+        "shared_interaction" : "pp",
+        "shared_name" : "SHD (pp) BCAR1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "553",
+        "source" : "213",
+        "target" : "206",
+        "selected" : false,
+        "SUID" : 553,
+        "name" : "SH2D4A (pp) RB1",
+        "interaction" : "pp",
+        "probability" : 0.8792512,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D4A (pp) RB1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "552",
+        "source" : "212",
+        "target" : "230",
+        "selected" : false,
+        "SUID" : 552,
+        "name" : "SH2D1B (pp) UNC5C",
+        "interaction" : "pp",
+        "probability" : 0.8916323,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) UNC5C"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "551",
+        "source" : "212",
+        "target" : "228",
+        "selected" : false,
+        "SUID" : 551,
+        "name" : "SH2D1B (pp) TWF1",
+        "interaction" : "pp",
+        "probability" : 0.8684574,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) TWF1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "550",
+        "source" : "212",
+        "target" : "221",
+        "selected" : false,
+        "SUID" : 550,
+        "name" : "SH2D1B (pp) SLC4A4",
+        "interaction" : "pp",
+        "probability" : 0.9311707,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) SLC4A4"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "549",
+        "source" : "212",
+        "target" : "219",
+        "selected" : false,
+        "SUID" : 549,
+        "name" : "SH2D1B (pp) SLAMF6",
+        "interaction" : "pp",
+        "probability" : 0.945344,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) SLAMF6"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "548",
+        "source" : "212",
+        "target" : "218",
+        "selected" : false,
+        "SUID" : 548,
+        "name" : "SH2D1B (pp) SLAMF1",
+        "interaction" : "pp",
+        "probability" : 0.978408,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) SLAMF1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "547",
+        "source" : "212",
+        "target" : "209",
+        "selected" : false,
+        "SUID" : 547,
+        "name" : "SH2D1B (pp) RPL38",
+        "interaction" : "pp",
+        "probability" : 0.8667216,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) RPL38"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "546",
+        "source" : "212",
+        "target" : "208",
+        "selected" : false,
+        "SUID" : 546,
+        "name" : "SH2D1B (pp) RNPS1",
+        "interaction" : "pp",
+        "probability" : 0.8671287,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) RNPS1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "545",
+        "source" : "212",
+        "target" : "197",
+        "selected" : false,
+        "SUID" : 545,
+        "name" : "SH2D1B (pp) POTEE",
+        "interaction" : "pp",
+        "probability" : 0.85250837,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) POTEE"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "544",
+        "source" : "212",
+        "target" : "193",
+        "selected" : false,
+        "SUID" : 544,
+        "name" : "SH2D1B (pp) PKP4",
+        "interaction" : "pp",
+        "probability" : 0.8773728,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) PKP4"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "543",
+        "source" : "212",
+        "target" : "189",
+        "selected" : false,
+        "SUID" : 543,
+        "name" : "SH2D1B (pp) PECAM1",
+        "interaction" : "pp",
+        "probability" : 0.94499826,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) PECAM1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "542",
+        "source" : "212",
+        "target" : "183",
+        "selected" : false,
+        "SUID" : 542,
+        "name" : "SH2D1B (pp) PAG1",
+        "interaction" : "pp",
+        "probability" : 0.8619382,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) PAG1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "541",
+        "source" : "212",
+        "target" : "173",
+        "selected" : false,
+        "SUID" : 541,
+        "name" : "SH2D1B (pp) LYN",
+        "interaction" : "pp",
+        "probability" : 0.85210925,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) LYN"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "540",
+        "source" : "212",
+        "target" : "172",
+        "selected" : false,
+        "SUID" : 540,
+        "name" : "SH2D1B (pp) LY9",
+        "interaction" : "pp",
+        "probability" : 0.9273882,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) LY9"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "539",
+        "source" : "212",
+        "target" : "165",
+        "selected" : false,
+        "SUID" : 539,
+        "name" : "SH2D1B (pp) KIF23",
+        "interaction" : "pp",
+        "probability" : 0.8641561,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) KIF23"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "538",
+        "source" : "212",
+        "target" : "164",
+        "selected" : false,
+        "SUID" : 538,
+        "name" : "SH2D1B (pp) KDR",
+        "interaction" : "pp",
+        "probability" : 0.8598322,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) KDR"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "537",
+        "source" : "212",
+        "target" : "158",
+        "selected" : false,
+        "SUID" : 537,
+        "name" : "SH2D1B (pp) HSPA8",
+        "interaction" : "pp",
+        "probability" : 0.88832754,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) HSPA8"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "536",
+        "source" : "212",
+        "target" : "148",
+        "selected" : false,
+        "SUID" : 536,
+        "name" : "SH2D1B (pp) GPR65",
+        "interaction" : "pp",
+        "probability" : 0.8842558,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) GPR65"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "535",
+        "source" : "212",
+        "target" : "130",
+        "selected" : false,
+        "SUID" : 535,
+        "name" : "SH2D1B (pp) G6B",
+        "interaction" : "pp",
+        "probability" : 0.9706616,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) G6B"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "534",
+        "source" : "212",
+        "target" : "113",
+        "selected" : false,
+        "SUID" : 534,
+        "name" : "SH2D1B (pp) EPOR",
+        "interaction" : "pp",
+        "probability" : 0.9269928,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) EPOR"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "533",
+        "source" : "212",
+        "target" : "112",
+        "selected" : false,
+        "SUID" : 533,
+        "name" : "SH2D1B (pp) EPB41",
+        "interaction" : "pp",
+        "probability" : 0.9393336,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) EPB41"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "532",
+        "source" : "212",
+        "target" : "90",
+        "selected" : false,
+        "SUID" : 532,
+        "name" : "SH2D1B (pp) CD84",
+        "interaction" : "pp",
+        "probability" : 0.9362978,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) CD84"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "531",
+        "source" : "212",
+        "target" : "86",
+        "selected" : false,
+        "SUID" : 531,
+        "name" : "SH2D1B (pp) CD22",
+        "interaction" : "pp",
+        "probability" : 0.85734695,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) CD22"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "530",
+        "source" : "212",
+        "target" : "66",
+        "selected" : false,
+        "SUID" : 530,
+        "name" : "SH2D1B (pp) ACTG1",
+        "interaction" : "pp",
+        "probability" : 0.8624533,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) ACTG1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "529",
+        "source" : "212",
+        "target" : "65",
+        "selected" : false,
+        "SUID" : 529,
+        "name" : "SH2D1B (pp) ACTB",
+        "interaction" : "pp",
+        "probability" : 0.8624533,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) ACTB"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "528",
+        "source" : "212",
+        "target" : "64",
+        "selected" : false,
+        "SUID" : 528,
+        "name" : "SH2D1B (pp) ACTA1",
+        "interaction" : "pp",
+        "probability" : 0.85734725,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1B (pp) ACTA1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "527",
+        "source" : "211",
+        "target" : "218",
+        "selected" : false,
+        "SUID" : 527,
+        "name" : "SH2D1A (pp) SLAMF1",
+        "interaction" : "pp",
+        "probability" : 0.89784825,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1A (pp) SLAMF1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "526",
+        "source" : "211",
+        "target" : "193",
+        "selected" : false,
+        "SUID" : 526,
+        "name" : "SH2D1A (pp) PKP4",
+        "interaction" : "pp",
+        "probability" : 0.8662516,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1A (pp) PKP4"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "525",
+        "source" : "211",
+        "target" : "130",
+        "selected" : false,
+        "SUID" : 525,
+        "name" : "SH2D1A (pp) G6B",
+        "interaction" : "pp",
+        "probability" : 0.9277861,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2D1A (pp) G6B"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "524",
+        "source" : "210",
+        "target" : "74",
+        "selected" : false,
+        "SUID" : 524,
+        "name" : "SH2B1 (pp) ATPBD4",
+        "interaction" : "pp",
+        "probability" : 0.8603753,
+        "shared_interaction" : "pp",
+        "shared_name" : "SH2B1 (pp) ATPBD4"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "523",
+        "source" : "204",
+        "target" : "226",
+        "selected" : false,
+        "SUID" : 523,
+        "name" : "RASA1 (pp) TNS1",
+        "interaction" : "pp",
+        "probability" : 0.8567688,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) TNS1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "522",
+        "source" : "204",
+        "target" : "222",
+        "selected" : false,
+        "SUID" : 522,
+        "name" : "RASA1 (pp) SOCS3",
+        "interaction" : "pp",
+        "probability" : 0.8520954,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) SOCS3"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "521",
+        "source" : "204",
+        "target" : "214",
+        "selected" : false,
+        "SUID" : 521,
+        "name" : "RASA1 (pp) SHB",
+        "interaction" : "pp",
+        "probability" : 0.93206376,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) SHB"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "520",
+        "source" : "204",
+        "target" : "198",
+        "selected" : false,
+        "SUID" : 520,
+        "name" : "RASA1 (pp) PREP",
+        "interaction" : "pp",
+        "probability" : 0.8607472,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) PREP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "519",
+        "source" : "204",
+        "target" : "193",
+        "selected" : false,
+        "SUID" : 519,
+        "name" : "RASA1 (pp) PKP4",
+        "interaction" : "pp",
+        "probability" : 0.9049856,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) PKP4"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "518",
+        "source" : "204",
+        "target" : "188",
+        "selected" : false,
+        "SUID" : 518,
+        "name" : "RASA1 (pp) PEAK1",
+        "interaction" : "pp",
+        "probability" : 0.8622412,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) PEAK1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "517",
+        "source" : "204",
+        "target" : "186",
+        "selected" : false,
+        "SUID" : 517,
+        "name" : "RASA1 (pp) PDGFRA",
+        "interaction" : "pp",
+        "probability" : 0.8634788,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) PDGFRA"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "516",
+        "source" : "204",
+        "target" : "180",
+        "selected" : false,
+        "SUID" : 516,
+        "name" : "RASA1 (pp) NEDD9",
+        "interaction" : "pp",
+        "probability" : 0.98130125,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) NEDD9"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "515",
+        "source" : "204",
+        "target" : "132",
+        "selected" : false,
+        "SUID" : 515,
+        "name" : "RASA1 (pp) GAB2",
+        "interaction" : "pp",
+        "probability" : 0.94467735,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) GAB2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "514",
+        "source" : "204",
+        "target" : "131",
+        "selected" : false,
+        "SUID" : 514,
+        "name" : "RASA1 (pp) GAB1",
+        "interaction" : "pp",
+        "probability" : 0.9407685,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) GAB1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "513",
+        "source" : "204",
+        "target" : "121",
+        "selected" : false,
+        "SUID" : 513,
+        "name" : "RASA1 (pp) FGFR1",
+        "interaction" : "pp",
+        "probability" : 0.9162381,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) FGFR1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "512",
+        "source" : "204",
+        "target" : "115",
+        "selected" : false,
+        "SUID" : 512,
+        "name" : "RASA1 (pp) ERBB2IP",
+        "interaction" : "pp",
+        "probability" : 0.8849982,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) ERBB2IP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "511",
+        "source" : "204",
+        "target" : "111",
+        "selected" : false,
+        "SUID" : 511,
+        "name" : "RASA1 (pp) EMD",
+        "interaction" : "pp",
+        "probability" : 0.9321749,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) EMD"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "510",
+        "source" : "204",
+        "target" : "109",
+        "selected" : false,
+        "SUID" : 510,
+        "name" : "RASA1 (pp) DOK7",
+        "interaction" : "pp",
+        "probability" : 0.8756171,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) DOK7"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "509",
+        "source" : "204",
+        "target" : "108",
+        "selected" : false,
+        "SUID" : 509,
+        "name" : "RASA1 (pp) DOK2",
+        "interaction" : "pp",
+        "probability" : 0.88311327,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) DOK2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "508",
+        "source" : "204",
+        "target" : "107",
+        "selected" : false,
+        "SUID" : 508,
+        "name" : "RASA1 (pp) DOK1",
+        "interaction" : "pp",
+        "probability" : 0.97344595,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) DOK1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "507",
+        "source" : "204",
+        "target" : "104",
+        "selected" : false,
+        "SUID" : 507,
+        "name" : "RASA1 (pp) DCBLD2",
+        "interaction" : "pp",
+        "probability" : 0.97686344,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) DCBLD2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "506",
+        "source" : "204",
+        "target" : "103",
+        "selected" : false,
+        "SUID" : 506,
+        "name" : "RASA1 (pp) DCBLD1",
+        "interaction" : "pp",
+        "probability" : 0.96982735,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) DCBLD1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "505",
+        "source" : "204",
+        "target" : "83",
+        "selected" : false,
+        "SUID" : 505,
+        "name" : "RASA1 (pp) CBLB",
+        "interaction" : "pp",
+        "probability" : 0.85892713,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) CBLB"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "504",
+        "source" : "204",
+        "target" : "76",
+        "selected" : false,
+        "SUID" : 504,
+        "name" : "RASA1 (pp) BCAR1",
+        "interaction" : "pp",
+        "probability" : 0.98712987,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) BCAR1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "503",
+        "source" : "204",
+        "target" : "66",
+        "selected" : false,
+        "SUID" : 503,
+        "name" : "RASA1 (pp) ACTG1",
+        "interaction" : "pp",
+        "probability" : 0.90449506,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) ACTG1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "502",
+        "source" : "204",
+        "target" : "65",
+        "selected" : false,
+        "SUID" : 502,
+        "name" : "RASA1 (pp) ACTB",
+        "interaction" : "pp",
+        "probability" : 0.90449506,
+        "shared_interaction" : "pp",
+        "shared_name" : "RASA1 (pp) ACTB"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "501",
+        "source" : "202",
+        "target" : "176",
+        "selected" : false,
+        "SUID" : 501,
+        "name" : "PTPN6 (pp) MPZ",
+        "interaction" : "pp",
+        "probability" : 0.87873566,
+        "shared_interaction" : "pp",
+        "shared_name" : "PTPN6 (pp) MPZ"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "500",
+        "source" : "202",
+        "target" : "86",
+        "selected" : false,
+        "SUID" : 500,
+        "name" : "PTPN6 (pp) CD22",
+        "interaction" : "pp",
+        "probability" : 0.93768007,
+        "shared_interaction" : "pp",
+        "shared_name" : "PTPN6 (pp) CD22"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "499",
+        "source" : "201",
+        "target" : "177",
+        "selected" : false,
+        "SUID" : 499,
+        "name" : "PTPN11 (pp) MPZL1",
+        "interaction" : "pp",
+        "probability" : 0.8782477,
+        "shared_interaction" : "pp",
+        "shared_name" : "PTPN11 (pp) MPZL1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "498",
+        "source" : "201",
+        "target" : "176",
+        "selected" : false,
+        "SUID" : 498,
+        "name" : "PTPN11 (pp) MPZ",
+        "interaction" : "pp",
+        "probability" : 0.9323731,
+        "shared_interaction" : "pp",
+        "shared_name" : "PTPN11 (pp) MPZ"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "497",
+        "source" : "201",
+        "target" : "113",
+        "selected" : false,
+        "SUID" : 497,
+        "name" : "PTPN11 (pp) EPOR",
+        "interaction" : "pp",
+        "probability" : 0.85495335,
+        "shared_interaction" : "pp",
+        "shared_name" : "PTPN11 (pp) EPOR"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "496",
+        "source" : "201",
+        "target" : "86",
+        "selected" : false,
+        "SUID" : 496,
+        "name" : "PTPN11 (pp) CD22",
+        "interaction" : "pp",
+        "probability" : 0.94037163,
+        "shared_interaction" : "pp",
+        "shared_name" : "PTPN11 (pp) CD22"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "495",
+        "source" : "200",
+        "target" : "231",
+        "selected" : false,
+        "SUID" : 495,
+        "name" : "PTK6 (pp) VAV1",
+        "interaction" : "pp",
+        "probability" : 0.85656464,
+        "shared_interaction" : "pp",
+        "shared_name" : "PTK6 (pp) VAV1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494",
+        "source" : "200",
+        "target" : "229",
+        "selected" : false,
+        "SUID" : 494,
+        "name" : "PTK6 (pp) TWF2",
+        "interaction" : "pp",
+        "probability" : 0.9512862,
+        "shared_interaction" : "pp",
+        "shared_name" : "PTK6 (pp) TWF2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493",
+        "source" : "200",
+        "target" : "228",
+        "selected" : false,
+        "SUID" : 493,
+        "name" : "PTK6 (pp) TWF1",
+        "interaction" : "pp",
+        "probability" : 0.9329493,
+        "shared_interaction" : "pp",
+        "shared_name" : "PTK6 (pp) TWF1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "492",
+        "source" : "200",
+        "target" : "180",
+        "selected" : false,
+        "SUID" : 492,
+        "name" : "PTK6 (pp) NEDD9",
+        "interaction" : "pp",
+        "probability" : 0.90041304,
+        "shared_interaction" : "pp",
+        "shared_name" : "PTK6 (pp) NEDD9"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "491",
+        "source" : "200",
+        "target" : "147",
+        "selected" : false,
+        "SUID" : 491,
+        "name" : "PTK6 (pp) GIT1",
+        "interaction" : "pp",
+        "probability" : 0.86033773,
+        "shared_interaction" : "pp",
+        "shared_name" : "PTK6 (pp) GIT1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "490",
+        "source" : "200",
+        "target" : "146",
+        "selected" : false,
+        "SUID" : 490,
+        "name" : "PTK6 (pp) GCSAM",
+        "interaction" : "pp",
+        "probability" : 0.91813457,
+        "shared_interaction" : "pp",
+        "shared_name" : "PTK6 (pp) GCSAM"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "489",
+        "source" : "200",
+        "target" : "76",
+        "selected" : false,
+        "SUID" : 489,
+        "name" : "PTK6 (pp) BCAR1",
+        "interaction" : "pp",
+        "probability" : 0.91913694,
+        "shared_interaction" : "pp",
+        "shared_name" : "PTK6 (pp) BCAR1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "488",
+        "source" : "200",
+        "target" : "68",
+        "selected" : false,
+        "SUID" : 488,
+        "name" : "PTK6 (pp) AIP",
+        "interaction" : "pp",
+        "probability" : 0.8533203,
+        "shared_interaction" : "pp",
+        "shared_name" : "PTK6 (pp) AIP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "487",
+        "source" : "194",
+        "target" : "225",
+        "selected" : false,
+        "SUID" : 487,
+        "name" : "PLCG1 (pp) TNK2",
+        "interaction" : "pp",
+        "probability" : 0.8772538,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) TNK2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "486",
+        "source" : "194",
+        "target" : "224",
+        "selected" : false,
+        "SUID" : 486,
+        "name" : "PLCG1 (pp) TJP2",
+        "interaction" : "pp",
+        "probability" : 0.8738536,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) TJP2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "485",
+        "source" : "194",
+        "target" : "205",
+        "selected" : false,
+        "SUID" : 485,
+        "name" : "PLCG1 (pp) RASGRP4",
+        "interaction" : "pp",
+        "probability" : 0.8817556,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) RASGRP4"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "484",
+        "source" : "194",
+        "target" : "199",
+        "selected" : false,
+        "SUID" : 484,
+        "name" : "PLCG1 (pp) PTK2B",
+        "interaction" : "pp",
+        "probability" : 0.9069203,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) PTK2B"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "483",
+        "source" : "194",
+        "target" : "187",
+        "selected" : false,
+        "SUID" : 483,
+        "name" : "PLCG1 (pp) PDGFRB",
+        "interaction" : "pp",
+        "probability" : 0.90080214,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) PDGFRB"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "482",
+        "source" : "194",
+        "target" : "186",
+        "selected" : false,
+        "SUID" : 482,
+        "name" : "PLCG1 (pp) PDGFRA",
+        "interaction" : "pp",
+        "probability" : 0.9207124,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) PDGFRA"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "481",
+        "source" : "194",
+        "target" : "182",
+        "selected" : false,
+        "SUID" : 481,
+        "name" : "PLCG1 (pp) OSMR",
+        "interaction" : "pp",
+        "probability" : 0.9166645,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) OSMR"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "480",
+        "source" : "194",
+        "target" : "167",
+        "selected" : false,
+        "SUID" : 480,
+        "name" : "PLCG1 (pp) LAT",
+        "interaction" : "pp",
+        "probability" : 0.85021263,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) LAT"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "479",
+        "source" : "194",
+        "target" : "160",
+        "selected" : false,
+        "SUID" : 479,
+        "name" : "PLCG1 (pp) IRS1",
+        "interaction" : "pp",
+        "probability" : 0.86392313,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) IRS1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "478",
+        "source" : "194",
+        "target" : "159",
+        "selected" : false,
+        "SUID" : 478,
+        "name" : "PLCG1 (pp) IKBKB",
+        "interaction" : "pp",
+        "probability" : 0.88271314,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) IKBKB"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "477",
+        "source" : "194",
+        "target" : "156",
+        "selected" : false,
+        "SUID" : 477,
+        "name" : "PLCG1 (pp) HGS",
+        "interaction" : "pp",
+        "probability" : 0.8622877,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) HGS"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "476",
+        "source" : "194",
+        "target" : "131",
+        "selected" : false,
+        "SUID" : 476,
+        "name" : "PLCG1 (pp) GAB1",
+        "interaction" : "pp",
+        "probability" : 0.9599724,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) GAB1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "475",
+        "source" : "194",
+        "target" : "123",
+        "selected" : false,
+        "SUID" : 475,
+        "name" : "PLCG1 (pp) FLII",
+        "interaction" : "pp",
+        "probability" : 0.8730179,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) FLII"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "474",
+        "source" : "194",
+        "target" : "117",
+        "selected" : false,
+        "SUID" : 474,
+        "name" : "PLCG1 (pp) ERRFI1",
+        "interaction" : "pp",
+        "probability" : 0.87901276,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) ERRFI1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "473",
+        "source" : "194",
+        "target" : "115",
+        "selected" : false,
+        "SUID" : 473,
+        "name" : "PLCG1 (pp) ERBB2IP",
+        "interaction" : "pp",
+        "probability" : 0.94054824,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) ERBB2IP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "472",
+        "source" : "194",
+        "target" : "114",
+        "selected" : false,
+        "SUID" : 472,
+        "name" : "PLCG1 (pp) ERBB2",
+        "interaction" : "pp",
+        "probability" : 0.8726323,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) ERBB2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "471",
+        "source" : "194",
+        "target" : "113",
+        "selected" : false,
+        "SUID" : 471,
+        "name" : "PLCG1 (pp) EPOR",
+        "interaction" : "pp",
+        "probability" : 0.95980036,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) EPOR"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "470",
+        "source" : "194",
+        "target" : "110",
+        "selected" : false,
+        "SUID" : 470,
+        "name" : "PLCG1 (pp) EGFR",
+        "interaction" : "pp",
+        "probability" : 0.85426736,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) EGFR"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "469",
+        "source" : "194",
+        "target" : "101",
+        "selected" : false,
+        "SUID" : 469,
+        "name" : "PLCG1 (pp) CSF2RB",
+        "interaction" : "pp",
+        "probability" : 0.9310252,
+        "shared_interaction" : "pp",
+        "shared_name" : "PLCG1 (pp) CSF2RB"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "468",
+        "source" : "192",
+        "target" : "220",
+        "selected" : false,
+        "SUID" : 468,
+        "name" : "PIK3R3 (pp) SLC4A1",
+        "interaction" : "pp",
+        "probability" : 0.88286877,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) SLC4A1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "467",
+        "source" : "192",
+        "target" : "196",
+        "selected" : false,
+        "SUID" : 467,
+        "name" : "PIK3R3 (pp) PLEKHS1",
+        "interaction" : "pp",
+        "probability" : 0.90032256,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) PLEKHS1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "466",
+        "source" : "192",
+        "target" : "193",
+        "selected" : false,
+        "SUID" : 466,
+        "name" : "PIK3R3 (pp) PKP4",
+        "interaction" : "pp",
+        "probability" : 0.8635621,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) PKP4"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "465",
+        "source" : "192",
+        "target" : "187",
+        "selected" : false,
+        "SUID" : 465,
+        "name" : "PIK3R3 (pp) PDGFRB",
+        "interaction" : "pp",
+        "probability" : 0.9815852,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) PDGFRB"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "464",
+        "source" : "192",
+        "target" : "186",
+        "selected" : false,
+        "SUID" : 464,
+        "name" : "PIK3R3 (pp) PDGFRA",
+        "interaction" : "pp",
+        "probability" : 0.9787518,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) PDGFRA"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "463",
+        "source" : "192",
+        "target" : "181",
+        "selected" : false,
+        "SUID" : 463,
+        "name" : "PIK3R3 (pp) NYAP2",
+        "interaction" : "pp",
+        "probability" : 0.96210855,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) NYAP2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "462",
+        "source" : "192",
+        "target" : "175",
+        "selected" : false,
+        "SUID" : 462,
+        "name" : "PIK3R3 (pp) MET",
+        "interaction" : "pp",
+        "probability" : 0.95139825,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) MET"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "461",
+        "source" : "192",
+        "target" : "174",
+        "selected" : false,
+        "SUID" : 461,
+        "name" : "PIK3R3 (pp) MEGF10",
+        "interaction" : "pp",
+        "probability" : 0.9505169,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) MEGF10"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "460",
+        "source" : "192",
+        "target" : "166",
+        "selected" : false,
+        "SUID" : 460,
+        "name" : "PIK3R3 (pp) KIT",
+        "interaction" : "pp",
+        "probability" : 0.8651255,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) KIT"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459",
+        "source" : "192",
+        "target" : "162",
+        "selected" : false,
+        "SUID" : 459,
+        "name" : "PIK3R3 (pp) IRS4",
+        "interaction" : "pp",
+        "probability" : 0.9848913,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) IRS4"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458",
+        "source" : "192",
+        "target" : "161",
+        "selected" : false,
+        "SUID" : 458,
+        "name" : "PIK3R3 (pp) IRS2",
+        "interaction" : "pp",
+        "probability" : 0.9968474,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) IRS2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457",
+        "source" : "192",
+        "target" : "160",
+        "selected" : false,
+        "SUID" : 457,
+        "name" : "PIK3R3 (pp) IRS1",
+        "interaction" : "pp",
+        "probability" : 0.99886745,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) IRS1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456",
+        "source" : "192",
+        "target" : "132",
+        "selected" : false,
+        "SUID" : 456,
+        "name" : "PIK3R3 (pp) GAB2",
+        "interaction" : "pp",
+        "probability" : 0.88781697,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) GAB2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "455",
+        "source" : "192",
+        "target" : "131",
+        "selected" : false,
+        "SUID" : 455,
+        "name" : "PIK3R3 (pp) GAB1",
+        "interaction" : "pp",
+        "probability" : 0.9892906,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) GAB1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454",
+        "source" : "192",
+        "target" : "122",
+        "selected" : false,
+        "SUID" : 454,
+        "name" : "PIK3R3 (pp) FGFR3",
+        "interaction" : "pp",
+        "probability" : 0.97493094,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) FGFR3"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "453",
+        "source" : "192",
+        "target" : "121",
+        "selected" : false,
+        "SUID" : 453,
+        "name" : "PIK3R3 (pp) FGFR1",
+        "interaction" : "pp",
+        "probability" : 0.97296864,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) FGFR1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "452",
+        "source" : "192",
+        "target" : "118",
+        "selected" : false,
+        "SUID" : 452,
+        "name" : "PIK3R3 (pp) ESYT2",
+        "interaction" : "pp",
+        "probability" : 0.94535077,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) ESYT2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "451",
+        "source" : "192",
+        "target" : "116",
+        "selected" : false,
+        "SUID" : 451,
+        "name" : "PIK3R3 (pp) ERBB3",
+        "interaction" : "pp",
+        "probability" : 0.9970073,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) ERBB3"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "450",
+        "source" : "192",
+        "target" : "102",
+        "selected" : false,
+        "SUID" : 450,
+        "name" : "PIK3R3 (pp) CTNND1",
+        "interaction" : "pp",
+        "probability" : 0.87818176,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) CTNND1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "449",
+        "source" : "192",
+        "target" : "100",
+        "selected" : false,
+        "SUID" : 449,
+        "name" : "PIK3R3 (pp) CSF1R",
+        "interaction" : "pp",
+        "probability" : 0.9313182,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) CSF1R"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "448",
+        "source" : "192",
+        "target" : "97",
+        "selected" : false,
+        "SUID" : 448,
+        "name" : "PIK3R3 (pp) CPA6",
+        "interaction" : "pp",
+        "probability" : 0.89336556,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) CPA6"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "447",
+        "source" : "192",
+        "target" : "88",
+        "selected" : false,
+        "SUID" : 447,
+        "name" : "PIK3R3 (pp) CD7",
+        "interaction" : "pp",
+        "probability" : 0.85011506,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) CD7"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "446",
+        "source" : "192",
+        "target" : "87",
+        "selected" : false,
+        "SUID" : 446,
+        "name" : "PIK3R3 (pp) CD28",
+        "interaction" : "pp",
+        "probability" : 0.9645949,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) CD28"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "445",
+        "source" : "192",
+        "target" : "85",
+        "selected" : false,
+        "SUID" : 445,
+        "name" : "PIK3R3 (pp) CD19",
+        "interaction" : "pp",
+        "probability" : 0.9183135,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) CD19"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "444",
+        "source" : "192",
+        "target" : "82",
+        "selected" : false,
+        "SUID" : 444,
+        "name" : "PIK3R3 (pp) CBL",
+        "interaction" : "pp",
+        "probability" : 0.86680126,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) CBL"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "443",
+        "source" : "192",
+        "target" : "80",
+        "selected" : false,
+        "SUID" : 443,
+        "name" : "PIK3R3 (pp) CASP8",
+        "interaction" : "pp",
+        "probability" : 0.93347424,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) CASP8"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "442",
+        "source" : "192",
+        "target" : "78",
+        "selected" : false,
+        "SUID" : 442,
+        "name" : "PIK3R3 (pp) BTK",
+        "interaction" : "pp",
+        "probability" : 0.96366364,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) BTK"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "441",
+        "source" : "192",
+        "target" : "75",
+        "selected" : false,
+        "SUID" : 441,
+        "name" : "PIK3R3 (pp) AXL",
+        "interaction" : "pp",
+        "probability" : 0.94709235,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) AXL"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "440",
+        "source" : "192",
+        "target" : "72",
+        "selected" : false,
+        "SUID" : 440,
+        "name" : "PIK3R3 (pp) AP2B1",
+        "interaction" : "pp",
+        "probability" : 0.98132646,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) AP2B1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "439",
+        "source" : "192",
+        "target" : "62",
+        "selected" : false,
+        "SUID" : 439,
+        "name" : "PIK3R3 (pp) ABL1",
+        "interaction" : "pp",
+        "probability" : 0.8710461,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R3 (pp) ABL1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "438",
+        "source" : "191",
+        "target" : "187",
+        "selected" : false,
+        "SUID" : 438,
+        "name" : "PIK3R2 (pp) PDGFRB",
+        "interaction" : "pp",
+        "probability" : 0.8920602,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R2 (pp) PDGFRB"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "437",
+        "source" : "191",
+        "target" : "186",
+        "selected" : false,
+        "SUID" : 437,
+        "name" : "PIK3R2 (pp) PDGFRA",
+        "interaction" : "pp",
+        "probability" : 0.88115704,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R2 (pp) PDGFRA"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "436",
+        "source" : "191",
+        "target" : "175",
+        "selected" : false,
+        "SUID" : 436,
+        "name" : "PIK3R2 (pp) MET",
+        "interaction" : "pp",
+        "probability" : 0.8818997,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R2 (pp) MET"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "435",
+        "source" : "191",
+        "target" : "174",
+        "selected" : false,
+        "SUID" : 435,
+        "name" : "PIK3R2 (pp) MEGF10",
+        "interaction" : "pp",
+        "probability" : 0.8706301,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R2 (pp) MEGF10"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "434",
+        "source" : "191",
+        "target" : "162",
+        "selected" : false,
+        "SUID" : 434,
+        "name" : "PIK3R2 (pp) IRS4",
+        "interaction" : "pp",
+        "probability" : 0.89273095,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R2 (pp) IRS4"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "433",
+        "source" : "191",
+        "target" : "161",
+        "selected" : false,
+        "SUID" : 433,
+        "name" : "PIK3R2 (pp) IRS2",
+        "interaction" : "pp",
+        "probability" : 0.9653689,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R2 (pp) IRS2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "432",
+        "source" : "191",
+        "target" : "160",
+        "selected" : false,
+        "SUID" : 432,
+        "name" : "PIK3R2 (pp) IRS1",
+        "interaction" : "pp",
+        "probability" : 0.9840438,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R2 (pp) IRS1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "431",
+        "source" : "191",
+        "target" : "131",
+        "selected" : false,
+        "SUID" : 431,
+        "name" : "PIK3R2 (pp) GAB1",
+        "interaction" : "pp",
+        "probability" : 0.9311301,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R2 (pp) GAB1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "430",
+        "source" : "191",
+        "target" : "122",
+        "selected" : false,
+        "SUID" : 430,
+        "name" : "PIK3R2 (pp) FGFR3",
+        "interaction" : "pp",
+        "probability" : 0.8525523,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R2 (pp) FGFR3"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "429",
+        "source" : "191",
+        "target" : "121",
+        "selected" : false,
+        "SUID" : 429,
+        "name" : "PIK3R2 (pp) FGFR1",
+        "interaction" : "pp",
+        "probability" : 0.89587927,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R2 (pp) FGFR1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "428",
+        "source" : "191",
+        "target" : "116",
+        "selected" : false,
+        "SUID" : 428,
+        "name" : "PIK3R2 (pp) ERBB3",
+        "interaction" : "pp",
+        "probability" : 0.9785695,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R2 (pp) ERBB3"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "427",
+        "source" : "191",
+        "target" : "87",
+        "selected" : false,
+        "SUID" : 427,
+        "name" : "PIK3R2 (pp) CD28",
+        "interaction" : "pp",
+        "probability" : 0.852907,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R2 (pp) CD28"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "426",
+        "source" : "191",
+        "target" : "72",
+        "selected" : false,
+        "SUID" : 426,
+        "name" : "PIK3R2 (pp) AP2B1",
+        "interaction" : "pp",
+        "probability" : 0.88528115,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R2 (pp) AP2B1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "425",
+        "source" : "190",
+        "target" : "220",
+        "selected" : false,
+        "SUID" : 425,
+        "name" : "PIK3R1 (pp) SLC4A1",
+        "interaction" : "pp",
+        "probability" : 0.8501985,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) SLC4A1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "424",
+        "source" : "190",
+        "target" : "196",
+        "selected" : false,
+        "SUID" : 424,
+        "name" : "PIK3R1 (pp) PLEKHS1",
+        "interaction" : "pp",
+        "probability" : 0.9064437,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) PLEKHS1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "423",
+        "source" : "190",
+        "target" : "187",
+        "selected" : false,
+        "SUID" : 423,
+        "name" : "PIK3R1 (pp) PDGFRB",
+        "interaction" : "pp",
+        "probability" : 0.9717167,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) PDGFRB"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "422",
+        "source" : "190",
+        "target" : "186",
+        "selected" : false,
+        "SUID" : 422,
+        "name" : "PIK3R1 (pp) PDGFRA",
+        "interaction" : "pp",
+        "probability" : 0.9770098,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) PDGFRA"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "421",
+        "source" : "190",
+        "target" : "181",
+        "selected" : false,
+        "SUID" : 421,
+        "name" : "PIK3R1 (pp) NYAP2",
+        "interaction" : "pp",
+        "probability" : 0.9322482,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) NYAP2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "420",
+        "source" : "190",
+        "target" : "178",
+        "selected" : false,
+        "SUID" : 420,
+        "name" : "PIK3R1 (pp) MST1R",
+        "interaction" : "pp",
+        "probability" : 0.8926553,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) MST1R"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "419",
+        "source" : "190",
+        "target" : "175",
+        "selected" : false,
+        "SUID" : 419,
+        "name" : "PIK3R1 (pp) MET",
+        "interaction" : "pp",
+        "probability" : 0.9188298,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) MET"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "418",
+        "source" : "190",
+        "target" : "174",
+        "selected" : false,
+        "SUID" : 418,
+        "name" : "PIK3R1 (pp) MEGF10",
+        "interaction" : "pp",
+        "probability" : 0.9540049,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) MEGF10"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "417",
+        "source" : "190",
+        "target" : "166",
+        "selected" : false,
+        "SUID" : 417,
+        "name" : "PIK3R1 (pp) KIT",
+        "interaction" : "pp",
+        "probability" : 0.88823134,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) KIT"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "416",
+        "source" : "190",
+        "target" : "162",
+        "selected" : false,
+        "SUID" : 416,
+        "name" : "PIK3R1 (pp) IRS4",
+        "interaction" : "pp",
+        "probability" : 0.9819762,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) IRS4"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "415",
+        "source" : "190",
+        "target" : "161",
+        "selected" : false,
+        "SUID" : 415,
+        "name" : "PIK3R1 (pp) IRS2",
+        "interaction" : "pp",
+        "probability" : 0.9955348,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) IRS2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "414",
+        "source" : "190",
+        "target" : "160",
+        "selected" : false,
+        "SUID" : 414,
+        "name" : "PIK3R1 (pp) IRS1",
+        "interaction" : "pp",
+        "probability" : 0.9977487,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) IRS1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "413",
+        "source" : "190",
+        "target" : "154",
+        "selected" : false,
+        "SUID" : 413,
+        "name" : "PIK3R1 (pp) GSTP1",
+        "interaction" : "pp",
+        "probability" : 0.8529127,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) GSTP1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "412",
+        "source" : "190",
+        "target" : "132",
+        "selected" : false,
+        "SUID" : 412,
+        "name" : "PIK3R1 (pp) GAB2",
+        "interaction" : "pp",
+        "probability" : 0.8562582,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) GAB2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "411",
+        "source" : "190",
+        "target" : "131",
+        "selected" : false,
+        "SUID" : 411,
+        "name" : "PIK3R1 (pp) GAB1",
+        "interaction" : "pp",
+        "probability" : 0.97811407,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) GAB1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "410",
+        "source" : "190",
+        "target" : "127",
+        "selected" : false,
+        "SUID" : 410,
+        "name" : "PIK3R1 (pp) FRS2",
+        "interaction" : "pp",
+        "probability" : 0.8525086,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) FRS2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "409",
+        "source" : "190",
+        "target" : "122",
+        "selected" : false,
+        "SUID" : 409,
+        "name" : "PIK3R1 (pp) FGFR3",
+        "interaction" : "pp",
+        "probability" : 0.987063,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) FGFR3"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "408",
+        "source" : "190",
+        "target" : "121",
+        "selected" : false,
+        "SUID" : 408,
+        "name" : "PIK3R1 (pp) FGFR1",
+        "interaction" : "pp",
+        "probability" : 0.9852154,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) FGFR1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "407",
+        "source" : "190",
+        "target" : "120",
+        "selected" : false,
+        "SUID" : 407,
+        "name" : "PIK3R1 (pp) FGD6",
+        "interaction" : "pp",
+        "probability" : 0.8844708,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) FGD6"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "406",
+        "source" : "190",
+        "target" : "118",
+        "selected" : false,
+        "SUID" : 406,
+        "name" : "PIK3R1 (pp) ESYT2",
+        "interaction" : "pp",
+        "probability" : 0.9211932,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) ESYT2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "405",
+        "source" : "190",
+        "target" : "116",
+        "selected" : false,
+        "SUID" : 405,
+        "name" : "PIK3R1 (pp) ERBB3",
+        "interaction" : "pp",
+        "probability" : 0.99451697,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) ERBB3"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "404",
+        "source" : "190",
+        "target" : "100",
+        "selected" : false,
+        "SUID" : 404,
+        "name" : "PIK3R1 (pp) CSF1R",
+        "interaction" : "pp",
+        "probability" : 0.9136795,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) CSF1R"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "403",
+        "source" : "190",
+        "target" : "97",
+        "selected" : false,
+        "SUID" : 403,
+        "name" : "PIK3R1 (pp) CPA6",
+        "interaction" : "pp",
+        "probability" : 0.857029,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) CPA6"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "402",
+        "source" : "190",
+        "target" : "87",
+        "selected" : false,
+        "SUID" : 402,
+        "name" : "PIK3R1 (pp) CD28",
+        "interaction" : "pp",
+        "probability" : 0.9890113,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) CD28"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "401",
+        "source" : "190",
+        "target" : "85",
+        "selected" : false,
+        "SUID" : 401,
+        "name" : "PIK3R1 (pp) CD19",
+        "interaction" : "pp",
+        "probability" : 0.87904996,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) CD19"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "400",
+        "source" : "190",
+        "target" : "80",
+        "selected" : false,
+        "SUID" : 400,
+        "name" : "PIK3R1 (pp) CASP8",
+        "interaction" : "pp",
+        "probability" : 0.8691976,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) CASP8"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "399",
+        "source" : "190",
+        "target" : "78",
+        "selected" : false,
+        "SUID" : 399,
+        "name" : "PIK3R1 (pp) BTK",
+        "interaction" : "pp",
+        "probability" : 0.96985155,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) BTK"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "398",
+        "source" : "190",
+        "target" : "75",
+        "selected" : false,
+        "SUID" : 398,
+        "name" : "PIK3R1 (pp) AXL",
+        "interaction" : "pp",
+        "probability" : 0.9206619,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) AXL"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "397",
+        "source" : "190",
+        "target" : "72",
+        "selected" : false,
+        "SUID" : 397,
+        "name" : "PIK3R1 (pp) AP2B1",
+        "interaction" : "pp",
+        "probability" : 0.98151904,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) AP2B1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "396",
+        "source" : "190",
+        "target" : "62",
+        "selected" : false,
+        "SUID" : 396,
+        "name" : "PIK3R1 (pp) ABL1",
+        "interaction" : "pp",
+        "probability" : 0.8608032,
+        "shared_interaction" : "pp",
+        "shared_name" : "PIK3R1 (pp) ABL1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "395",
+        "source" : "179",
+        "target" : "229",
+        "selected" : false,
+        "SUID" : 395,
+        "name" : "NCK2 (pp) TWF2",
+        "interaction" : "pp",
+        "probability" : 0.9419945,
+        "shared_interaction" : "pp",
+        "shared_name" : "NCK2 (pp) TWF2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "394",
+        "source" : "179",
+        "target" : "228",
+        "selected" : false,
+        "SUID" : 394,
+        "name" : "NCK2 (pp) TWF1",
+        "interaction" : "pp",
+        "probability" : 0.9012303,
+        "shared_interaction" : "pp",
+        "shared_name" : "NCK2 (pp) TWF1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "393",
+        "source" : "179",
+        "target" : "214",
+        "selected" : false,
+        "SUID" : 393,
+        "name" : "NCK2 (pp) SHB",
+        "interaction" : "pp",
+        "probability" : 0.892591,
+        "shared_interaction" : "pp",
+        "shared_name" : "NCK2 (pp) SHB"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "392",
+        "source" : "179",
+        "target" : "180",
+        "selected" : false,
+        "SUID" : 392,
+        "name" : "NCK2 (pp) NEDD9",
+        "interaction" : "pp",
+        "probability" : 0.894985,
+        "shared_interaction" : "pp",
+        "shared_name" : "NCK2 (pp) NEDD9"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "391",
+        "source" : "179",
+        "target" : "108",
+        "selected" : false,
+        "SUID" : 391,
+        "name" : "NCK2 (pp) DOK2",
+        "interaction" : "pp",
+        "probability" : 0.85764456,
+        "shared_interaction" : "pp",
+        "shared_name" : "NCK2 (pp) DOK2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "390",
+        "source" : "179",
+        "target" : "107",
+        "selected" : false,
+        "SUID" : 390,
+        "name" : "NCK2 (pp) DOK1",
+        "interaction" : "pp",
+        "probability" : 0.90369296,
+        "shared_interaction" : "pp",
+        "shared_name" : "NCK2 (pp) DOK1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "389",
+        "source" : "179",
+        "target" : "104",
+        "selected" : false,
+        "SUID" : 389,
+        "name" : "NCK2 (pp) DCBLD2",
+        "interaction" : "pp",
+        "probability" : 0.8633001,
+        "shared_interaction" : "pp",
+        "shared_name" : "NCK2 (pp) DCBLD2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "388",
+        "source" : "179",
+        "target" : "76",
+        "selected" : false,
+        "SUID" : 388,
+        "name" : "NCK2 (pp) BCAR1",
+        "interaction" : "pp",
+        "probability" : 0.9178808,
+        "shared_interaction" : "pp",
+        "shared_name" : "NCK2 (pp) BCAR1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "387",
+        "source" : "169",
+        "target" : "228",
+        "selected" : false,
+        "SUID" : 387,
+        "name" : "LCK (pp) TWF1",
+        "interaction" : "pp",
+        "probability" : 0.89866,
+        "shared_interaction" : "pp",
+        "shared_name" : "LCK (pp) TWF1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "386",
+        "source" : "169",
+        "target" : "188",
+        "selected" : false,
+        "SUID" : 386,
+        "name" : "LCK (pp) PEAK1",
+        "interaction" : "pp",
+        "probability" : 0.87039655,
+        "shared_interaction" : "pp",
+        "shared_name" : "LCK (pp) PEAK1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "385",
+        "source" : "169",
+        "target" : "68",
+        "selected" : false,
+        "SUID" : 385,
+        "name" : "LCK (pp) AIP",
+        "interaction" : "pp",
+        "probability" : 0.8500242,
+        "shared_interaction" : "pp",
+        "shared_name" : "LCK (pp) AIP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "384",
+        "source" : "155",
+        "target" : "229",
+        "selected" : false,
+        "SUID" : 384,
+        "name" : "HCK (pp) TWF2",
+        "interaction" : "pp",
+        "probability" : 0.9060797,
+        "shared_interaction" : "pp",
+        "shared_name" : "HCK (pp) TWF2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "383",
+        "source" : "155",
+        "target" : "228",
+        "selected" : false,
+        "SUID" : 383,
+        "name" : "HCK (pp) TWF1",
+        "interaction" : "pp",
+        "probability" : 0.9550771,
+        "shared_interaction" : "pp",
+        "shared_name" : "HCK (pp) TWF1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "382",
+        "source" : "155",
+        "target" : "188",
+        "selected" : false,
+        "SUID" : 382,
+        "name" : "HCK (pp) PEAK1",
+        "interaction" : "pp",
+        "probability" : 0.90019274,
+        "shared_interaction" : "pp",
+        "shared_name" : "HCK (pp) PEAK1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "381",
+        "source" : "155",
+        "target" : "183",
+        "selected" : false,
+        "SUID" : 381,
+        "name" : "HCK (pp) PAG1",
+        "interaction" : "pp",
+        "probability" : 0.85663426,
+        "shared_interaction" : "pp",
+        "shared_name" : "HCK (pp) PAG1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "380",
+        "source" : "155",
+        "target" : "120",
+        "selected" : false,
+        "SUID" : 380,
+        "name" : "HCK (pp) FGD6",
+        "interaction" : "pp",
+        "probability" : 0.89631706,
+        "shared_interaction" : "pp",
+        "shared_name" : "HCK (pp) FGD6"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "379",
+        "source" : "155",
+        "target" : "84",
+        "selected" : false,
+        "SUID" : 379,
+        "name" : "HCK (pp) CD163L1",
+        "interaction" : "pp",
+        "probability" : 0.8945472,
+        "shared_interaction" : "pp",
+        "shared_name" : "HCK (pp) CD163L1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "378",
+        "source" : "155",
+        "target" : "68",
+        "selected" : false,
+        "SUID" : 378,
+        "name" : "HCK (pp) AIP",
+        "interaction" : "pp",
+        "probability" : 0.8809992,
+        "shared_interaction" : "pp",
+        "shared_name" : "HCK (pp) AIP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "377",
+        "source" : "153",
+        "target" : "170",
+        "selected" : false,
+        "SUID" : 377,
+        "name" : "GRB7 (pp) LIMD1",
+        "interaction" : "pp",
+        "probability" : 0.85292155,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRB7 (pp) LIMD1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "376",
+        "source" : "153",
+        "target" : "120",
+        "selected" : false,
+        "SUID" : 376,
+        "name" : "GRB7 (pp) FGD6",
+        "interaction" : "pp",
+        "probability" : 0.88188386,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRB7 (pp) FGD6"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "375",
+        "source" : "152",
+        "target" : "154",
+        "selected" : false,
+        "SUID" : 375,
+        "name" : "GRB2 (pp) GSTP1",
+        "interaction" : "pp",
+        "probability" : 0.8639153,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRB2 (pp) GSTP1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "374",
+        "source" : "152",
+        "target" : "127",
+        "selected" : false,
+        "SUID" : 374,
+        "name" : "GRB2 (pp) FRS2",
+        "interaction" : "pp",
+        "probability" : 0.8858722,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRB2 (pp) FRS2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "373",
+        "source" : "151",
+        "target" : "229",
+        "selected" : false,
+        "SUID" : 373,
+        "name" : "GRB14 (pp) TWF2",
+        "interaction" : "pp",
+        "probability" : 0.8701303,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRB14 (pp) TWF2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "372",
+        "source" : "149",
+        "target" : "216",
+        "selected" : false,
+        "SUID" : 372,
+        "name" : "GRAP2 (pp) SIT1",
+        "interaction" : "pp",
+        "probability" : 0.8693883,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) SIT1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "371",
+        "source" : "149",
+        "target" : "202",
+        "selected" : false,
+        "SUID" : 371,
+        "name" : "GRAP2 (pp) PTPN6",
+        "interaction" : "pp",
+        "probability" : 0.8886038,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) PTPN6"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "370",
+        "source" : "149",
+        "target" : "201",
+        "selected" : false,
+        "SUID" : 370,
+        "name" : "GRAP2 (pp) PTPN11",
+        "interaction" : "pp",
+        "probability" : 0.92269284,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) PTPN11"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "369",
+        "source" : "149",
+        "target" : "199",
+        "selected" : false,
+        "SUID" : 369,
+        "name" : "GRAP2 (pp) PTK2B",
+        "interaction" : "pp",
+        "probability" : 0.9555924,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) PTK2B"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "368",
+        "source" : "149",
+        "target" : "195",
+        "selected" : false,
+        "SUID" : 368,
+        "name" : "GRAP2 (pp) PLD2",
+        "interaction" : "pp",
+        "probability" : 0.90755445,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) PLD2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "367",
+        "source" : "149",
+        "target" : "185",
+        "selected" : false,
+        "SUID" : 367,
+        "name" : "GRAP2 (pp) PCNA",
+        "interaction" : "pp",
+        "probability" : 0.8841816,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) PCNA"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "366",
+        "source" : "149",
+        "target" : "184",
+        "selected" : false,
+        "SUID" : 366,
+        "name" : "GRAP2 (pp) PALMD",
+        "interaction" : "pp",
+        "probability" : 0.93315434,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) PALMD"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "365",
+        "source" : "149",
+        "target" : "171",
+        "selected" : false,
+        "SUID" : 365,
+        "name" : "GRAP2 (pp) LY6G6F",
+        "interaction" : "pp",
+        "probability" : 0.8520759,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) LY6G6F"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "364",
+        "source" : "149",
+        "target" : "168",
+        "selected" : false,
+        "SUID" : 364,
+        "name" : "GRAP2 (pp) LAT2",
+        "interaction" : "pp",
+        "probability" : 0.8578254,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) LAT2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "363",
+        "source" : "149",
+        "target" : "167",
+        "selected" : false,
+        "SUID" : 363,
+        "name" : "GRAP2 (pp) LAT",
+        "interaction" : "pp",
+        "probability" : 0.94183385,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) LAT"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "362",
+        "source" : "149",
+        "target" : "154",
+        "selected" : false,
+        "SUID" : 362,
+        "name" : "GRAP2 (pp) GSTP1",
+        "interaction" : "pp",
+        "probability" : 0.9290876,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) GSTP1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "361",
+        "source" : "149",
+        "target" : "150",
+        "selected" : false,
+        "SUID" : 361,
+        "name" : "GRAP2 (pp) GRB10",
+        "interaction" : "pp",
+        "probability" : 0.8671071,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) GRB10"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "360",
+        "source" : "149",
+        "target" : "146",
+        "selected" : false,
+        "SUID" : 360,
+        "name" : "GRAP2 (pp) GCSAM",
+        "interaction" : "pp",
+        "probability" : 0.90062654,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) GCSAM"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "359",
+        "source" : "149",
+        "target" : "127",
+        "selected" : false,
+        "SUID" : 359,
+        "name" : "GRAP2 (pp) FRS2",
+        "interaction" : "pp",
+        "probability" : 0.9635441,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) FRS2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "358",
+        "source" : "149",
+        "target" : "125",
+        "selected" : false,
+        "SUID" : 358,
+        "name" : "GRAP2 (pp) FLT3",
+        "interaction" : "pp",
+        "probability" : 0.86230344,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) FLT3"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "357",
+        "source" : "149",
+        "target" : "124",
+        "selected" : false,
+        "SUID" : 357,
+        "name" : "GRAP2 (pp) FLT1",
+        "interaction" : "pp",
+        "probability" : 0.8521313,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) FLT1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "356",
+        "source" : "149",
+        "target" : "120",
+        "selected" : false,
+        "SUID" : 356,
+        "name" : "GRAP2 (pp) FGD6",
+        "interaction" : "pp",
+        "probability" : 0.91827166,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) FGD6"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "355",
+        "source" : "149",
+        "target" : "96",
+        "selected" : false,
+        "SUID" : 355,
+        "name" : "GRAP2 (pp) COPA",
+        "interaction" : "pp",
+        "probability" : 0.8802513,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) COPA"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "354",
+        "source" : "149",
+        "target" : "79",
+        "selected" : false,
+        "SUID" : 354,
+        "name" : "GRAP2 (pp) BUD31",
+        "interaction" : "pp",
+        "probability" : 0.8743252,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) BUD31"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "353",
+        "source" : "149",
+        "target" : "73",
+        "selected" : false,
+        "SUID" : 353,
+        "name" : "GRAP2 (pp) ARHGAP12",
+        "interaction" : "pp",
+        "probability" : 0.91163397,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) ARHGAP12"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "352",
+        "source" : "149",
+        "target" : "70",
+        "selected" : false,
+        "SUID" : 352,
+        "name" : "GRAP2 (pp) ANK1",
+        "interaction" : "pp",
+        "probability" : 0.89312947,
+        "shared_interaction" : "pp",
+        "shared_name" : "GRAP2 (pp) ANK1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "351",
+        "source" : "129",
+        "target" : "229",
+        "selected" : false,
+        "SUID" : 351,
+        "name" : "FYN (pp) TWF2",
+        "interaction" : "pp",
+        "probability" : 0.9018176,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) TWF2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "350",
+        "source" : "129",
+        "target" : "228",
+        "selected" : false,
+        "SUID" : 350,
+        "name" : "FYN (pp) TWF1",
+        "interaction" : "pp",
+        "probability" : 0.9629275,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) TWF1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "349",
+        "source" : "129",
+        "target" : "227",
+        "selected" : false,
+        "SUID" : 349,
+        "name" : "FYN (pp) TOM1L1",
+        "interaction" : "pp",
+        "probability" : 0.89700395,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) TOM1L1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "348",
+        "source" : "129",
+        "target" : "206",
+        "selected" : false,
+        "SUID" : 348,
+        "name" : "FYN (pp) RB1",
+        "interaction" : "pp",
+        "probability" : 0.9222405,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) RB1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "347",
+        "source" : "129",
+        "target" : "188",
+        "selected" : false,
+        "SUID" : 347,
+        "name" : "FYN (pp) PEAK1",
+        "interaction" : "pp",
+        "probability" : 0.94486594,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) PEAK1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "346",
+        "source" : "129",
+        "target" : "183",
+        "selected" : false,
+        "SUID" : 346,
+        "name" : "FYN (pp) PAG1",
+        "interaction" : "pp",
+        "probability" : 0.92945796,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) PAG1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "345",
+        "source" : "129",
+        "target" : "171",
+        "selected" : false,
+        "SUID" : 345,
+        "name" : "FYN (pp) LY6G6F",
+        "interaction" : "pp",
+        "probability" : 0.8630081,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) LY6G6F"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "344",
+        "source" : "129",
+        "target" : "146",
+        "selected" : false,
+        "SUID" : 344,
+        "name" : "FYN (pp) GCSAM",
+        "interaction" : "pp",
+        "probability" : 0.905822,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) GCSAM"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "343",
+        "source" : "129",
+        "target" : "133",
+        "selected" : false,
+        "SUID" : 343,
+        "name" : "FYN (pp) GABRG2",
+        "interaction" : "pp",
+        "probability" : 0.8795582,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) GABRG2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "342",
+        "source" : "129",
+        "target" : "127",
+        "selected" : false,
+        "SUID" : 342,
+        "name" : "FYN (pp) FRS2",
+        "interaction" : "pp",
+        "probability" : 0.8636708,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) FRS2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "341",
+        "source" : "129",
+        "target" : "121",
+        "selected" : false,
+        "SUID" : 341,
+        "name" : "FYN (pp) FGFR1",
+        "interaction" : "pp",
+        "probability" : 0.90759885,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) FGFR1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "340",
+        "source" : "129",
+        "target" : "120",
+        "selected" : false,
+        "SUID" : 340,
+        "name" : "FYN (pp) FGD6",
+        "interaction" : "pp",
+        "probability" : 0.9234703,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) FGD6"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "339",
+        "source" : "129",
+        "target" : "92",
+        "selected" : false,
+        "SUID" : 339,
+        "name" : "FYN (pp) CFL1",
+        "interaction" : "pp",
+        "probability" : 0.86700565,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) CFL1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "338",
+        "source" : "129",
+        "target" : "89",
+        "selected" : false,
+        "SUID" : 338,
+        "name" : "FYN (pp) CD79A",
+        "interaction" : "pp",
+        "probability" : 0.8828404,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) CD79A"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "337",
+        "source" : "129",
+        "target" : "84",
+        "selected" : false,
+        "SUID" : 337,
+        "name" : "FYN (pp) CD163L1",
+        "interaction" : "pp",
+        "probability" : 0.9071388,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) CD163L1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "336",
+        "source" : "129",
+        "target" : "74",
+        "selected" : false,
+        "SUID" : 336,
+        "name" : "FYN (pp) ATPBD4",
+        "interaction" : "pp",
+        "probability" : 0.8599237,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) ATPBD4"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "335",
+        "source" : "129",
+        "target" : "71",
+        "selected" : false,
+        "SUID" : 335,
+        "name" : "FYN (pp) ANKS1A",
+        "interaction" : "pp",
+        "probability" : 0.91332597,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) ANKS1A"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "334",
+        "source" : "129",
+        "target" : "68",
+        "selected" : false,
+        "SUID" : 334,
+        "name" : "FYN (pp) AIP",
+        "interaction" : "pp",
+        "probability" : 0.903912,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) AIP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "333",
+        "source" : "129",
+        "target" : "67",
+        "selected" : false,
+        "SUID" : 333,
+        "name" : "FYN (pp) ADRBK1",
+        "interaction" : "pp",
+        "probability" : 0.8601633,
+        "shared_interaction" : "pp",
+        "shared_name" : "FYN (pp) ADRBK1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "332",
+        "source" : "126",
+        "target" : "232",
+        "selected" : false,
+        "SUID" : 332,
+        "name" : "FRK (pp) VSTM4",
+        "interaction" : "pp",
+        "probability" : 0.8742041,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) VSTM4"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "331",
+        "source" : "126",
+        "target" : "229",
+        "selected" : false,
+        "SUID" : 331,
+        "name" : "FRK (pp) TWF2",
+        "interaction" : "pp",
+        "probability" : 0.8836239,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) TWF2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "330",
+        "source" : "126",
+        "target" : "228",
+        "selected" : false,
+        "SUID" : 330,
+        "name" : "FRK (pp) TWF1",
+        "interaction" : "pp",
+        "probability" : 0.9643637,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) TWF1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "329",
+        "source" : "126",
+        "target" : "227",
+        "selected" : false,
+        "SUID" : 329,
+        "name" : "FRK (pp) TOM1L1",
+        "interaction" : "pp",
+        "probability" : 0.8643932,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) TOM1L1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "328",
+        "source" : "126",
+        "target" : "223",
+        "selected" : false,
+        "SUID" : 328,
+        "name" : "FRK (pp) SPTAN1",
+        "interaction" : "pp",
+        "probability" : 0.87713957,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) SPTAN1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "327",
+        "source" : "126",
+        "target" : "206",
+        "selected" : false,
+        "SUID" : 327,
+        "name" : "FRK (pp) RB1",
+        "interaction" : "pp",
+        "probability" : 0.93624365,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) RB1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "326",
+        "source" : "126",
+        "target" : "188",
+        "selected" : false,
+        "SUID" : 326,
+        "name" : "FRK (pp) PEAK1",
+        "interaction" : "pp",
+        "probability" : 0.9582599,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) PEAK1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "325",
+        "source" : "126",
+        "target" : "183",
+        "selected" : false,
+        "SUID" : 325,
+        "name" : "FRK (pp) PAG1",
+        "interaction" : "pp",
+        "probability" : 0.90184426,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) PAG1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "324",
+        "source" : "126",
+        "target" : "163",
+        "selected" : false,
+        "SUID" : 324,
+        "name" : "FRK (pp) JAK3",
+        "interaction" : "pp",
+        "probability" : 0.85969585,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) JAK3"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "323",
+        "source" : "126",
+        "target" : "127",
+        "selected" : false,
+        "SUID" : 323,
+        "name" : "FRK (pp) FRS2",
+        "interaction" : "pp",
+        "probability" : 0.86480576,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) FRS2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "322",
+        "source" : "126",
+        "target" : "121",
+        "selected" : false,
+        "SUID" : 322,
+        "name" : "FRK (pp) FGFR1",
+        "interaction" : "pp",
+        "probability" : 0.89381534,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) FGFR1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "321",
+        "source" : "126",
+        "target" : "120",
+        "selected" : false,
+        "SUID" : 321,
+        "name" : "FRK (pp) FGD6",
+        "interaction" : "pp",
+        "probability" : 0.88134813,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) FGD6"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "320",
+        "source" : "126",
+        "target" : "113",
+        "selected" : false,
+        "SUID" : 320,
+        "name" : "FRK (pp) EPOR",
+        "interaction" : "pp",
+        "probability" : 0.856186,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) EPOR"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "319",
+        "source" : "126",
+        "target" : "92",
+        "selected" : false,
+        "SUID" : 319,
+        "name" : "FRK (pp) CFL1",
+        "interaction" : "pp",
+        "probability" : 0.89781797,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) CFL1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "318",
+        "source" : "126",
+        "target" : "91",
+        "selected" : false,
+        "SUID" : 318,
+        "name" : "FRK (pp) CEACAM3",
+        "interaction" : "pp",
+        "probability" : 0.8924644,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) CEACAM3"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "317",
+        "source" : "126",
+        "target" : "84",
+        "selected" : false,
+        "SUID" : 317,
+        "name" : "FRK (pp) CD163L1",
+        "interaction" : "pp",
+        "probability" : 0.9366616,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) CD163L1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "316",
+        "source" : "126",
+        "target" : "69",
+        "selected" : false,
+        "SUID" : 316,
+        "name" : "FRK (pp) AKAP8",
+        "interaction" : "pp",
+        "probability" : 0.8521556,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) AKAP8"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "315",
+        "source" : "126",
+        "target" : "68",
+        "selected" : false,
+        "SUID" : 315,
+        "name" : "FRK (pp) AIP",
+        "interaction" : "pp",
+        "probability" : 0.883658,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) AIP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "314",
+        "source" : "126",
+        "target" : "67",
+        "selected" : false,
+        "SUID" : 314,
+        "name" : "FRK (pp) ADRBK1",
+        "interaction" : "pp",
+        "probability" : 0.88406056,
+        "shared_interaction" : "pp",
+        "shared_name" : "FRK (pp) ADRBK1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "313",
+        "source" : "119",
+        "target" : "206",
+        "selected" : false,
+        "SUID" : 313,
+        "name" : "FER (pp) RB1",
+        "interaction" : "pp",
+        "probability" : 0.8783208,
+        "shared_interaction" : "pp",
+        "shared_name" : "FER (pp) RB1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "312",
+        "source" : "99",
+        "target" : "198",
+        "selected" : false,
+        "SUID" : 312,
+        "name" : "CRKL (pp) PREP",
+        "interaction" : "pp",
+        "probability" : 0.8840003,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) PREP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "311",
+        "source" : "99",
+        "target" : "180",
+        "selected" : false,
+        "SUID" : 311,
+        "name" : "CRKL (pp) NEDD9",
+        "interaction" : "pp",
+        "probability" : 0.9755789,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) NEDD9"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "310",
+        "source" : "99",
+        "target" : "145",
+        "selected" : false,
+        "SUID" : 310,
+        "name" : "CRKL (pp) GAGE7",
+        "interaction" : "pp",
+        "probability" : 0.87230116,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) GAGE7"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "309",
+        "source" : "99",
+        "target" : "144",
+        "selected" : false,
+        "SUID" : 309,
+        "name" : "CRKL (pp) GAGE6",
+        "interaction" : "pp",
+        "probability" : 0.87230116,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) GAGE6"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "308",
+        "source" : "99",
+        "target" : "143",
+        "selected" : false,
+        "SUID" : 308,
+        "name" : "CRKL (pp) GAGE5",
+        "interaction" : "pp",
+        "probability" : 0.87230116,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) GAGE5"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "307",
+        "source" : "99",
+        "target" : "142",
+        "selected" : false,
+        "SUID" : 307,
+        "name" : "CRKL (pp) GAGE4",
+        "interaction" : "pp",
+        "probability" : 0.87230116,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) GAGE4"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "306",
+        "source" : "99",
+        "target" : "141",
+        "selected" : false,
+        "SUID" : 306,
+        "name" : "CRKL (pp) GAGE12J",
+        "interaction" : "pp",
+        "probability" : 0.8722006,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) GAGE12J"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "305",
+        "source" : "99",
+        "target" : "140",
+        "selected" : false,
+        "SUID" : 305,
+        "name" : "CRKL (pp) GAGE12I",
+        "interaction" : "pp",
+        "probability" : 0.87230116,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) GAGE12I"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "304",
+        "source" : "99",
+        "target" : "139",
+        "selected" : false,
+        "SUID" : 304,
+        "name" : "CRKL (pp) GAGE12H",
+        "interaction" : "pp",
+        "probability" : 0.87230116,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) GAGE12H"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "303",
+        "source" : "99",
+        "target" : "138",
+        "selected" : false,
+        "SUID" : 303,
+        "name" : "CRKL (pp) GAGE12F",
+        "interaction" : "pp",
+        "probability" : 0.87230116,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) GAGE12F"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "302",
+        "source" : "99",
+        "target" : "137",
+        "selected" : false,
+        "SUID" : 302,
+        "name" : "CRKL (pp) GAGE12D",
+        "interaction" : "pp",
+        "probability" : 0.87230116,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) GAGE12D"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "301",
+        "source" : "99",
+        "target" : "136",
+        "selected" : false,
+        "SUID" : 301,
+        "name" : "CRKL (pp) GAGE12C",
+        "interaction" : "pp",
+        "probability" : 0.87230116,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) GAGE12C"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "300",
+        "source" : "99",
+        "target" : "135",
+        "selected" : false,
+        "SUID" : 300,
+        "name" : "CRKL (pp) GAGE12B",
+        "interaction" : "pp",
+        "probability" : 0.87230116,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) GAGE12B"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "299",
+        "source" : "99",
+        "target" : "134",
+        "selected" : false,
+        "SUID" : 299,
+        "name" : "CRKL (pp) GAGE1",
+        "interaction" : "pp",
+        "probability" : 0.87230116,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) GAGE1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "298",
+        "source" : "99",
+        "target" : "132",
+        "selected" : false,
+        "SUID" : 298,
+        "name" : "CRKL (pp) GAB2",
+        "interaction" : "pp",
+        "probability" : 0.90920573,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) GAB2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "297",
+        "source" : "99",
+        "target" : "131",
+        "selected" : false,
+        "SUID" : 297,
+        "name" : "CRKL (pp) GAB1",
+        "interaction" : "pp",
+        "probability" : 0.91959363,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) GAB1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "296",
+        "source" : "99",
+        "target" : "111",
+        "selected" : false,
+        "SUID" : 296,
+        "name" : "CRKL (pp) EMD",
+        "interaction" : "pp",
+        "probability" : 0.8914901,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) EMD"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "295",
+        "source" : "99",
+        "target" : "109",
+        "selected" : false,
+        "SUID" : 295,
+        "name" : "CRKL (pp) DOK7",
+        "interaction" : "pp",
+        "probability" : 0.9519862,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) DOK7"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "294",
+        "source" : "99",
+        "target" : "103",
+        "selected" : false,
+        "SUID" : 294,
+        "name" : "CRKL (pp) DCBLD1",
+        "interaction" : "pp",
+        "probability" : 0.87528974,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) DCBLD1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "293",
+        "source" : "99",
+        "target" : "94",
+        "selected" : false,
+        "SUID" : 293,
+        "name" : "CRKL (pp) CLDN9",
+        "interaction" : "pp",
+        "probability" : 0.8978259,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) CLDN9"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "292",
+        "source" : "99",
+        "target" : "93",
+        "selected" : false,
+        "SUID" : 292,
+        "name" : "CRKL (pp) CHD1",
+        "interaction" : "pp",
+        "probability" : 0.8610001,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) CHD1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "291",
+        "source" : "99",
+        "target" : "83",
+        "selected" : false,
+        "SUID" : 291,
+        "name" : "CRKL (pp) CBLB",
+        "interaction" : "pp",
+        "probability" : 0.9179711,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) CBLB"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "290",
+        "source" : "99",
+        "target" : "81",
+        "selected" : false,
+        "SUID" : 290,
+        "name" : "CRKL (pp) CASS4",
+        "interaction" : "pp",
+        "probability" : 0.909432,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) CASS4"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "289",
+        "source" : "99",
+        "target" : "76",
+        "selected" : false,
+        "SUID" : 289,
+        "name" : "CRKL (pp) BCAR1",
+        "interaction" : "pp",
+        "probability" : 0.97777194,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRKL (pp) BCAR1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "288",
+        "source" : "98",
+        "target" : "198",
+        "selected" : false,
+        "SUID" : 288,
+        "name" : "CRK (pp) PREP",
+        "interaction" : "pp",
+        "probability" : 0.8707254,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) PREP"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "287",
+        "source" : "98",
+        "target" : "180",
+        "selected" : false,
+        "SUID" : 287,
+        "name" : "CRK (pp) NEDD9",
+        "interaction" : "pp",
+        "probability" : 0.9740384,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) NEDD9"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "286",
+        "source" : "98",
+        "target" : "174",
+        "selected" : false,
+        "SUID" : 286,
+        "name" : "CRK (pp) MEGF10",
+        "interaction" : "pp",
+        "probability" : 0.8618809,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) MEGF10"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "285",
+        "source" : "98",
+        "target" : "145",
+        "selected" : false,
+        "SUID" : 285,
+        "name" : "CRK (pp) GAGE7",
+        "interaction" : "pp",
+        "probability" : 0.8619302,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) GAGE7"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "284",
+        "source" : "98",
+        "target" : "144",
+        "selected" : false,
+        "SUID" : 284,
+        "name" : "CRK (pp) GAGE6",
+        "interaction" : "pp",
+        "probability" : 0.8619302,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) GAGE6"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "283",
+        "source" : "98",
+        "target" : "143",
+        "selected" : false,
+        "SUID" : 283,
+        "name" : "CRK (pp) GAGE5",
+        "interaction" : "pp",
+        "probability" : 0.8619302,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) GAGE5"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "282",
+        "source" : "98",
+        "target" : "142",
+        "selected" : false,
+        "SUID" : 282,
+        "name" : "CRK (pp) GAGE4",
+        "interaction" : "pp",
+        "probability" : 0.8619302,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) GAGE4"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "281",
+        "source" : "98",
+        "target" : "141",
+        "selected" : false,
+        "SUID" : 281,
+        "name" : "CRK (pp) GAGE12J",
+        "interaction" : "pp",
+        "probability" : 0.86182666,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) GAGE12J"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "280",
+        "source" : "98",
+        "target" : "140",
+        "selected" : false,
+        "SUID" : 280,
+        "name" : "CRK (pp) GAGE12I",
+        "interaction" : "pp",
+        "probability" : 0.8619302,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) GAGE12I"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "279",
+        "source" : "98",
+        "target" : "139",
+        "selected" : false,
+        "SUID" : 279,
+        "name" : "CRK (pp) GAGE12H",
+        "interaction" : "pp",
+        "probability" : 0.8619302,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) GAGE12H"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "278",
+        "source" : "98",
+        "target" : "138",
+        "selected" : false,
+        "SUID" : 278,
+        "name" : "CRK (pp) GAGE12F",
+        "interaction" : "pp",
+        "probability" : 0.8619302,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) GAGE12F"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "277",
+        "source" : "98",
+        "target" : "137",
+        "selected" : false,
+        "SUID" : 277,
+        "name" : "CRK (pp) GAGE12D",
+        "interaction" : "pp",
+        "probability" : 0.8619302,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) GAGE12D"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "276",
+        "source" : "98",
+        "target" : "136",
+        "selected" : false,
+        "SUID" : 276,
+        "name" : "CRK (pp) GAGE12C",
+        "interaction" : "pp",
+        "probability" : 0.8619302,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) GAGE12C"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "275",
+        "source" : "98",
+        "target" : "135",
+        "selected" : false,
+        "SUID" : 275,
+        "name" : "CRK (pp) GAGE12B",
+        "interaction" : "pp",
+        "probability" : 0.8619302,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) GAGE12B"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "274",
+        "source" : "98",
+        "target" : "134",
+        "selected" : false,
+        "SUID" : 274,
+        "name" : "CRK (pp) GAGE1",
+        "interaction" : "pp",
+        "probability" : 0.8619302,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) GAGE1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "273",
+        "source" : "98",
+        "target" : "132",
+        "selected" : false,
+        "SUID" : 273,
+        "name" : "CRK (pp) GAB2",
+        "interaction" : "pp",
+        "probability" : 0.91023177,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) GAB2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "272",
+        "source" : "98",
+        "target" : "131",
+        "selected" : false,
+        "SUID" : 272,
+        "name" : "CRK (pp) GAB1",
+        "interaction" : "pp",
+        "probability" : 0.91615325,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) GAB1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "271",
+        "source" : "98",
+        "target" : "111",
+        "selected" : false,
+        "SUID" : 271,
+        "name" : "CRK (pp) EMD",
+        "interaction" : "pp",
+        "probability" : 0.893088,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) EMD"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "270",
+        "source" : "98",
+        "target" : "109",
+        "selected" : false,
+        "SUID" : 270,
+        "name" : "CRK (pp) DOK7",
+        "interaction" : "pp",
+        "probability" : 0.9486536,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) DOK7"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "269",
+        "source" : "98",
+        "target" : "103",
+        "selected" : false,
+        "SUID" : 269,
+        "name" : "CRK (pp) DCBLD1",
+        "interaction" : "pp",
+        "probability" : 0.87657017,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) DCBLD1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "268",
+        "source" : "98",
+        "target" : "94",
+        "selected" : false,
+        "SUID" : 268,
+        "name" : "CRK (pp) CLDN9",
+        "interaction" : "pp",
+        "probability" : 0.8699223,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) CLDN9"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "267",
+        "source" : "98",
+        "target" : "83",
+        "selected" : false,
+        "SUID" : 267,
+        "name" : "CRK (pp) CBLB",
+        "interaction" : "pp",
+        "probability" : 0.91818386,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) CBLB"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "266",
+        "source" : "98",
+        "target" : "81",
+        "selected" : false,
+        "SUID" : 266,
+        "name" : "CRK (pp) CASS4",
+        "interaction" : "pp",
+        "probability" : 0.89909697,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) CASS4"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "265",
+        "source" : "98",
+        "target" : "76",
+        "selected" : false,
+        "SUID" : 265,
+        "name" : "CRK (pp) BCAR1",
+        "interaction" : "pp",
+        "probability" : 0.97555256,
+        "shared_interaction" : "pp",
+        "shared_name" : "CRK (pp) BCAR1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "264",
+        "source" : "95",
+        "target" : "229",
+        "selected" : false,
+        "SUID" : 264,
+        "name" : "CLNK (pp) TWF2",
+        "interaction" : "pp",
+        "probability" : 0.8805003,
+        "shared_interaction" : "pp",
+        "shared_name" : "CLNK (pp) TWF2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "263",
+        "source" : "77",
+        "target" : "229",
+        "selected" : false,
+        "SUID" : 263,
+        "name" : "BLK (pp) TWF2",
+        "interaction" : "pp",
+        "probability" : 0.9316654,
+        "shared_interaction" : "pp",
+        "shared_name" : "BLK (pp) TWF2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "262",
+        "source" : "77",
+        "target" : "228",
+        "selected" : false,
+        "SUID" : 262,
+        "name" : "BLK (pp) TWF1",
+        "interaction" : "pp",
+        "probability" : 0.9603212,
+        "shared_interaction" : "pp",
+        "shared_name" : "BLK (pp) TWF1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "261",
+        "source" : "77",
+        "target" : "188",
+        "selected" : false,
+        "SUID" : 261,
+        "name" : "BLK (pp) PEAK1",
+        "interaction" : "pp",
+        "probability" : 0.9026224,
+        "shared_interaction" : "pp",
+        "shared_name" : "BLK (pp) PEAK1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "260",
+        "source" : "77",
+        "target" : "183",
+        "selected" : false,
+        "SUID" : 260,
+        "name" : "BLK (pp) PAG1",
+        "interaction" : "pp",
+        "probability" : 0.85234404,
+        "shared_interaction" : "pp",
+        "shared_name" : "BLK (pp) PAG1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "259",
+        "source" : "77",
+        "target" : "120",
+        "selected" : false,
+        "SUID" : 259,
+        "name" : "BLK (pp) FGD6",
+        "interaction" : "pp",
+        "probability" : 0.8808155,
+        "shared_interaction" : "pp",
+        "shared_name" : "BLK (pp) FGD6"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "258",
+        "source" : "77",
+        "target" : "84",
+        "selected" : false,
+        "SUID" : 258,
+        "name" : "BLK (pp) CD163L1",
+        "interaction" : "pp",
+        "probability" : 0.9022126,
+        "shared_interaction" : "pp",
+        "shared_name" : "BLK (pp) CD163L1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "257",
+        "source" : "63",
+        "target" : "229",
+        "selected" : false,
+        "SUID" : 257,
+        "name" : "ABL2 (pp) TWF2",
+        "interaction" : "pp",
+        "probability" : 0.8902403,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL2 (pp) TWF2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "256",
+        "source" : "63",
+        "target" : "225",
+        "selected" : false,
+        "SUID" : 256,
+        "name" : "ABL2 (pp) TNK2",
+        "interaction" : "pp",
+        "probability" : 0.86334443,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL2 (pp) TNK2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "255",
+        "source" : "63",
+        "target" : "184",
+        "selected" : false,
+        "SUID" : 255,
+        "name" : "ABL2 (pp) PALMD",
+        "interaction" : "pp",
+        "probability" : 0.88601094,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL2 (pp) PALMD"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "254",
+        "source" : "63",
+        "target" : "180",
+        "selected" : false,
+        "SUID" : 254,
+        "name" : "ABL2 (pp) NEDD9",
+        "interaction" : "pp",
+        "probability" : 0.9063047,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL2 (pp) NEDD9"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "253",
+        "source" : "63",
+        "target" : "174",
+        "selected" : false,
+        "SUID" : 253,
+        "name" : "ABL2 (pp) MEGF10",
+        "interaction" : "pp",
+        "probability" : 0.90982795,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL2 (pp) MEGF10"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "252",
+        "source" : "63",
+        "target" : "132",
+        "selected" : false,
+        "SUID" : 252,
+        "name" : "ABL2 (pp) GAB2",
+        "interaction" : "pp",
+        "probability" : 0.9161846,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL2 (pp) GAB2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "251",
+        "source" : "63",
+        "target" : "117",
+        "selected" : false,
+        "SUID" : 251,
+        "name" : "ABL2 (pp) ERRFI1",
+        "interaction" : "pp",
+        "probability" : 0.85531133,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL2 (pp) ERRFI1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "250",
+        "source" : "63",
+        "target" : "111",
+        "selected" : false,
+        "SUID" : 250,
+        "name" : "ABL2 (pp) EMD",
+        "interaction" : "pp",
+        "probability" : 0.8853835,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL2 (pp) EMD"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "249",
+        "source" : "63",
+        "target" : "107",
+        "selected" : false,
+        "SUID" : 249,
+        "name" : "ABL2 (pp) DOK1",
+        "interaction" : "pp",
+        "probability" : 0.8706795,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL2 (pp) DOK1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "248",
+        "source" : "63",
+        "target" : "104",
+        "selected" : false,
+        "SUID" : 248,
+        "name" : "ABL2 (pp) DCBLD2",
+        "interaction" : "pp",
+        "probability" : 0.8940661,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL2 (pp) DCBLD2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "247",
+        "source" : "63",
+        "target" : "103",
+        "selected" : false,
+        "SUID" : 247,
+        "name" : "ABL2 (pp) DCBLD1",
+        "interaction" : "pp",
+        "probability" : 0.86973566,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL2 (pp) DCBLD1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "246",
+        "source" : "63",
+        "target" : "76",
+        "selected" : false,
+        "SUID" : 246,
+        "name" : "ABL2 (pp) BCAR1",
+        "interaction" : "pp",
+        "probability" : 0.92560697,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL2 (pp) BCAR1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "245",
+        "source" : "62",
+        "target" : "229",
+        "selected" : false,
+        "SUID" : 245,
+        "name" : "ABL1 (pp) TWF2",
+        "interaction" : "pp",
+        "probability" : 0.9203843,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL1 (pp) TWF2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "244",
+        "source" : "62",
+        "target" : "228",
+        "selected" : false,
+        "SUID" : 244,
+        "name" : "ABL1 (pp) TWF1",
+        "interaction" : "pp",
+        "probability" : 0.8783233,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL1 (pp) TWF1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "243",
+        "source" : "62",
+        "target" : "184",
+        "selected" : false,
+        "SUID" : 243,
+        "name" : "ABL1 (pp) PALMD",
+        "interaction" : "pp",
+        "probability" : 0.8969583,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL1 (pp) PALMD"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "242",
+        "source" : "62",
+        "target" : "180",
+        "selected" : false,
+        "SUID" : 242,
+        "name" : "ABL1 (pp) NEDD9",
+        "interaction" : "pp",
+        "probability" : 0.9243681,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL1 (pp) NEDD9"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "241",
+        "source" : "62",
+        "target" : "174",
+        "selected" : false,
+        "SUID" : 241,
+        "name" : "ABL1 (pp) MEGF10",
+        "interaction" : "pp",
+        "probability" : 0.86740553,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL1 (pp) MEGF10"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "240",
+        "source" : "62",
+        "target" : "157",
+        "selected" : false,
+        "SUID" : 240,
+        "name" : "ABL1 (pp) HSFY2",
+        "interaction" : "pp",
+        "probability" : 0.8763938,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL1 (pp) HSFY2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "239",
+        "source" : "62",
+        "target" : "132",
+        "selected" : false,
+        "SUID" : 239,
+        "name" : "ABL1 (pp) GAB2",
+        "interaction" : "pp",
+        "probability" : 0.90658253,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL1 (pp) GAB2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "238",
+        "source" : "62",
+        "target" : "111",
+        "selected" : false,
+        "SUID" : 238,
+        "name" : "ABL1 (pp) EMD",
+        "interaction" : "pp",
+        "probability" : 0.87655216,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL1 (pp) EMD"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "237",
+        "source" : "62",
+        "target" : "107",
+        "selected" : false,
+        "SUID" : 237,
+        "name" : "ABL1 (pp) DOK1",
+        "interaction" : "pp",
+        "probability" : 0.8593385,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL1 (pp) DOK1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "236",
+        "source" : "62",
+        "target" : "106",
+        "selected" : false,
+        "SUID" : 236,
+        "name" : "ABL1 (pp) DDR1",
+        "interaction" : "pp",
+        "probability" : 0.8676553,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL1 (pp) DDR1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "235",
+        "source" : "62",
+        "target" : "105",
+        "selected" : false,
+        "SUID" : 235,
+        "name" : "ABL1 (pp) DDB1",
+        "interaction" : "pp",
+        "probability" : 0.8541364,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL1 (pp) DDB1"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "234",
+        "source" : "62",
+        "target" : "104",
+        "selected" : false,
+        "SUID" : 234,
+        "name" : "ABL1 (pp) DCBLD2",
+        "interaction" : "pp",
+        "probability" : 0.89753,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL1 (pp) DCBLD2"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "233",
+        "source" : "62",
+        "target" : "76",
+        "selected" : false,
+        "SUID" : 233,
+        "name" : "ABL1 (pp) BCAR1",
+        "interaction" : "pp",
+        "probability" : 0.93442667,
+        "shared_interaction" : "pp",
+        "shared_name" : "ABL1 (pp) BCAR1"
+      },
+      "selected" : false
+    } ]
+  }
+}
