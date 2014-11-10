@@ -17,3 +17,10 @@ Build instructions
 
   #. Unpack `data.tgz` from the Dropbox folder into this directory
 
+
+Local viewing
+=============
+
+Use chrome/chromium, with this command line:
+
+  `chrome --temp-profile --allow-file-access-from-files`
