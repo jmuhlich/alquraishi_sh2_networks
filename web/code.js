@@ -4,6 +4,7 @@
   var SLIDER_SCALING = Math.pow(10, SLIDER_PREC_DIGITS);
   var CUTOFF_MIN = 0.53;
   var CUTOFF_MAX = 1.0;
+  var CUTOFF_DEFAULT = 0.85;
 
   function initGraph(data, textStatus, jqXHR) {
 
@@ -73,40 +74,44 @@
       ele.data('probability', pmax.value);
     });
 
-    // Calling updateCutoff requires that cy is initialized, but this is not a
+    // Calling setCutoff requires that cy is initialized, but this is not a
     // very good place to put this code as it's not related to building the
     // graph.
-    updateCutoff($slider.slider("value") / SLIDER_SCALING);
+    setCutoff($slider.slider("value") / SLIDER_SCALING);
 
     // DEBUG
     window.cy = cy;
 
   }
 
-  // slide event handler for slider
-  function slideCutoff(event, ui) {
+  // Slide event handler for cutoff slider. Note that the ui.value is scaled!
+  function cutoffSlide(event, ui) {
     var cutoff = ui.value / SLIDER_SCALING;
-    if (cutoff < CUTOFF_MIN | slider > CUTOFF_MAX) {
-      return false;
-    }
-    updateCutoff(cutoff);
+    setCutoff(cutoff);
   }
 
-  function updateCutoff(cutoff) {
+  // Update UI with new cutoff value. cutoff is actual value - unscaled.
+  function setCutoff(cutoff) {
     var old_cutoff = $("#cutoff").val();
+    // Convert from the string value the form field gives us into a float.
     if (old_cutoff == "") {
-      old_cutoff = CUTOFF_MAX;
+      // If the field was empty, this is the first time we've been called.
+      // Pretend we're sliding up from 0 (the lowest possible probability value)
+      // so all of the lower-probability nodes will get hidden.
+      old_cutoff = 0;
     } else {
       old_cutoff = parseFloat(old_cutoff);
     }
     // Use .toFixed so that e.g. 0.9 becomes "0.90".
-    $("#cutoff").val(cutoff.toFixed(SLIDER_PREC_DIGITS));
+    var cutoff_fmt = cutoff.toFixed(SLIDER_PREC_DIGITS);
+    // Set form field which displays the value to the user.
+    $("#cutoff").val(cutoff_fmt);
     if (cutoff < old_cutoff) {
-      // Cutoff decreased.
+      // Cutoff decreased -- reveal some nodes.
       var sel = '[probability>=' + cutoff + '][probability<' + old_cutoff + ']';
       cy.elements().filter(sel).show();
     } else {
-      // Cutoff increased.
+      // Cutoff increased -- hide some nodes.
       var sel = '[probability>=' + old_cutoff + '][probability<' + cutoff + ']';
       cy.elements().filter(sel).hide();
     }
@@ -115,15 +120,16 @@
   $("document").ready(function() {
 
     // Get exported json from cytoscape desktop via ajax.
-    $.get('../output/wt_85.cyjs', initGraph, 'json');
+    $.get('../output/wt_53.cyjs', initGraph, 'json');
 
-    // Set up slider for probability cutoff.
+    // Set up slider for probability cutoff. Values are scaled because we need
+    // floats but slider only provides ints.
     $slider = $("#slider");
     $slider.slider({
-      value: 0.85 * SLIDER_SCALING,
-      min: 0.0,
-      max: 1.0 * SLIDER_SCALING,
-      slide: slideCutoff,
+      value: CUTOFF_DEFAULT * SLIDER_SCALING,
+      min: CUTOFF_MIN * SLIDER_SCALING,
+      max: CUTOFF_MAX * SLIDER_SCALING,
+      slide: cutoffSlide,
     });
 
   });
