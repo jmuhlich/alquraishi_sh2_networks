@@ -27,6 +27,8 @@
           .css({
             'content': 'data(name)',
             'font-size': 20,
+            'width': 30,
+            'height': 30,
           })
         .selector('node[?is_sh2][!is_ppb]')
           .css({
@@ -50,9 +52,17 @@
             'mid-target-arrow-color': '#808080',
             'mid-target-arrow-shape': 'triangle',
           })
+        .selector('edge:selected')
+          .css({
+            'content': 'data(probability_rounded)',
+            'font-size': 20,
+            'font-style': 'italic',
+          })
         .selector(':selected')
          .css({
-           'background-color': 'black',
+           'border-color': 'black',
+           'border-style': 'double',
+           'border-width': 10,
            'opacity': 1
          }),
 
@@ -64,14 +74,16 @@
 
     });
 
-    cy.boxSelectionEnabled(false);
-
     // Set probability data value on nodes to max of probability on incident
     // edges. Then hide/show logic can hide "orphan" nodes trivially.
     cy.nodes().each(function(i, ele) {
       var edges = ele.neighborhood('edge');
       var pmax = edges.max(function(ele) { return ele.data('probability'); });
       ele.data('probability', pmax.value);
+    });
+    // Add a property with the probability rounded to 3 places for display.
+    cy.edges().each(function(i, ele) {
+      ele.data('probability_rounded', ele.data('probability').toFixed(3));
     });
 
     // Calling setCutoff requires that cy is initialized, but this is not a
