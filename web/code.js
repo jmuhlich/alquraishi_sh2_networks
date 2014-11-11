@@ -42,6 +42,21 @@
           .css({
             'background-color': 'rgb(117, 74, 178)', // purple (blend of red and blue)
           })
+        .selector('node[?is_onco][!is_ts]')
+          .css({
+            'background-image': 'node_oncogene.svg',
+            'background-fit': 'cover',
+          })
+        .selector('node[!is_onco][?is_ts]')
+          .css({
+            'background-image': 'node_tumorsuppressor.svg',
+            'background-fit': 'cover',
+          })
+        .selector('node[?is_onco][?is_ts]')
+          .css({
+            'background-image': 'node_both.svg',
+            'background-fit': 'cover',
+          })
         .selector('edge')
           .css({
             'opacity': 0.5,
