@@ -4,6 +4,8 @@ body {
 
 .network-wrapper {
   display: inline-block;
+  float: left;
+  margin-right: 20px;
 }
 
 #cy {
@@ -26,4 +28,13 @@ body {
   margin-left: 1em;
   width: 300px;
   display: inline-block;
+}
+
+#content tr:nth-child(even) {
+  background-color: inherit;
+}
+
+#content .legend td {
+  padding: 5px;
+  border-right: 0;
 }
