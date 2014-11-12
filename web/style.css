@@ -7,8 +7,8 @@ body {
 }
 
 #cy {
-  height: 800px;
-  width: 800px;
+  height: 600px;
+  width: 600px;
   border: 1px solid gray;
 }
 
@@ -17,7 +17,7 @@ body {
 }
 
 #cutoff {
-  width: 2em;
+  width: 2.2em;
   border: 0;
   font-weight: bold;
 }
