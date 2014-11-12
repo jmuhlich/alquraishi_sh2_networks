@@ -83,42 +83,53 @@
 
     <!-- sh2 specific -->
     <div class="network-wrapper">
+      <div class="loading-message">Loading...</div>
       <div id="cy"></div>
       <div class="slider-wrapper">
-        <label for="cutoff">Probability cutoff:</label>
+        <label for="cutoff">Probability cutoff (<strong>P</strong>):</label>
         <input readonly id="cutoff" />
         <div id="slider"></div>
       </div>
     </div>
 
-      <h2>Legend</h2>
-      <table class="legend">
-        <tr>
-          <td><img src="img/legend_0_0.png" style="width: 13px;  height: 13px; border-width: 0px;"></td>
-          <td>Phosphoprotein</td>
-        </tr>
-        <tr>
-          <td><img src="img/legend_1_0.png"  style="width: 13px; height: 13px; border-width: 0px;"></td>
-          <td>SH2 domain-containing protein</td>
-        </tr>
-        <tr>
-          <td><img src="img/legend_2_0.png"  style="width: 13px; height: 13px; border-width: 0px;"></td>
-          <td>Both</td>
-        </tr>
-        <tr><td><!-- spacer --></td></tr>
-        <tr>
-          <td><img src="img/legend_3_0.png"  style="width: 13px; height: 13px; border-width: 0px;"></td>
-          <td>Tumor suppressor</td>
-        </tr>
-        <tr>
-          <td><img src="img/legend_4_0.png"  style="width: 13px; height: 13px; border-width: 0px;"></td>
-          <td>Oncoprotein</td>
-        </tr>
-        <tr>
-          <td><img src="img/legend_5_0.png" style="width: 13px;  height: 13px; border-width: 0px;"></td>
-          <td>Both</td>
-        </tr>
-      </table>
+    <h2>About</h2>
+    <p>This network depicts the Multiscale Statistical Mechanical Protein model
+    (MSM/P) predictions of all interaction probabilities between SH2 proteins
+    and phosphoproteins with P &gt; 0.85. The edges are directed from SH2
+    proteins to phosphoproteins. The SH2/phosphoprotein identity is represented
+    by color, and the tumor-suppressive/oncogenic nature of the proteins is
+    represented by vertical and horizontal bars (see legend below).</p>
+    <p>The lower cutoff for P may be adjusted with the slider, and nodes may be
+    selected and moved manually to adjust the layout.</p>
+
+    <h2>Legend</h2>
+    <table class="legend">
+      <tr>
+        <td><img src="img/legend_0_0.png" style="width: 13px;  height: 13px; border-width: 0px;"></td>
+        <td>Phosphoprotein</td>
+      </tr>
+      <tr>
+        <td><img src="img/legend_1_0.png"  style="width: 13px; height: 13px; border-width: 0px;"></td>
+        <td>SH2 domain-containing protein</td>
+      </tr>
+      <tr>
+        <td><img src="img/legend_2_0.png"  style="width: 13px; height: 13px; border-width: 0px;"></td>
+        <td>Both</td>
+      </tr>
+      <tr><td><!-- spacer --></td></tr>
+      <tr>
+        <td><img src="img/legend_3_0.png"  style="width: 13px; height: 13px; border-width: 0px;"></td>
+        <td>Tumor suppressor</td>
+      </tr>
+      <tr>
+        <td><img src="img/legend_4_0.png"  style="width: 13px; height: 13px; border-width: 0px;"></td>
+        <td>Oncoprotein</td>
+      </tr>
+      <tr>
+        <td><img src="img/legend_5_0.png" style="width: 13px;  height: 13px; border-width: 0px;"></td>
+        <td>Both</td>
+      </tr>
+    </table>
 
 
 

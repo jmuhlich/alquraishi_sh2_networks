@@ -1,9 +1,4 @@
-body { 
-  font: 14px helvetica neue, helvetica, arial, sans-serif;
-}
-
 .network-wrapper {
-  display: inline-block;
   float: left;
   margin-right: 20px;
 }
@@ -37,4 +32,12 @@ body {
 #content .legend td {
   padding: 5px;
   border-right: 0;
+}
+
+.loading-message {
+  position: absolute;
+  left: 200px;
+  top: 100px;
+  font-size: 48px;
+  font-weight: bold;
 }

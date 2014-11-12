@@ -85,6 +85,7 @@
         name: 'preset',
       },
 
+      ready: graphReady,
       elements: elements,
 
     });
@@ -101,14 +102,17 @@
       ele.data('probability_rounded', ele.data('probability').toFixed(3));
     });
 
-    // Calling setCutoff requires that cy is initialized, but this is not a
-    // very good place to put this code as it's not related to building the
-    // graph.
-    setCutoff($slider.slider("value") / SLIDER_SCALING);
 
     // DEBUG
     window.cy = cy;
 
+  }
+
+  function graphReady(event) {
+    // Calling setCutoff requires that the graph is initialized.
+    setCutoff($slider.slider("value") / SLIDER_SCALING);
+    // Hide the loading indicator.
+    $('.loading-message').hide()
   }
 
   // Slide event handler for cutoff slider. Note that the ui.value is scaled!
