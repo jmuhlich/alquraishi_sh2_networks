@@ -1,6 +1,20 @@
+.subtitle-wrap {
+  margin-bottom: 10px;
+}
+
+.subtitle-wrap h2 {
+  margin: 0;
+}
+
+.subtitle-wrap p {
+  margin: 0;
+  line-height: 1.3em;
+}
+
 .network-wrapper {
   float: left;
   margin-right: 20px;
+  position: relative;
 }
 
 #cy {
