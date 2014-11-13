@@ -151,7 +151,7 @@
   $("document").ready(function() {
 
     // Get exported json from cytoscape desktop via ajax.
-    $.get('../data/wt_53.cyjs', initGraph, 'json');
+    $.get('wt.cyjs', initGraph, 'json');
 
     // Set up slider for probability cutoff. Values are scaled because we need
     // floats but slider only provides ints.

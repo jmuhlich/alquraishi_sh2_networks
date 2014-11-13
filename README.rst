@@ -8,19 +8,31 @@ Project layout
 Build instructions
 ==================
 
-* To build `output/wt_85.cyjs`:
-
-  #. Load `data/temp/wt_85.cys` into Cytoscape 3
-  #. File > Export > Network and view > cyjs format
-
 * To obtain content of `data/networks/`:
 
-  #. Unpack `data.tgz` from the Dropbox folder into this directory
+  #. Unpack `data.tgz` from the Dropbox folder into this directory, producing
+     `data/networks/data` containing several .csv files (see
+     `data/networks/README.rst` for details)
+
+* To prepare data files for loading into Cytoscape (version 3):
+
+  #. Run `python build_cytoscape_network_csv.py`
+  #. Run `bash src/build_cytoscape_node_data.sh`
+  #. Import `output/wtmat_cytoscape_0.53.csv` into Cytoscape via
+     File > Import > Network > File
+  #. Import `output/node_all.tsv` into the resulting network via
+     File > Import > Table > File
+
+* To build the web content:
+
+  #. Run `src/build_web.sh`
+  #. View `output/web/index.html`
 
 
 Local viewing
 =============
 
-Use chrome/chromium, with this command line:
+Use chrome/chromium, with the following command line arguments:
 
-  `chrome --temp-profile --allow-file-access-from-files`
+  `--temp-profile --no-first-run --no-default-browser-check \
+  --allow-file-access-from-files output/web/index.html`
