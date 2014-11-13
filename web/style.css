@@ -39,7 +39,11 @@
   display: inline-block;
 }
 
-#content tr:nth-child(even) {
+#content .legend {
+  border: 0;
+}
+
+#content .legend tr:nth-child(even) {
   background-color: inherit;
 }
 
@@ -54,4 +58,11 @@
   top: 100px;
   font-size: 48px;
   font-weight: bold;
+}
+
+.powered-by {
+  clear: left;
+  float: right;
+  font-style: italic;
+  margin-top: 2em;
 }

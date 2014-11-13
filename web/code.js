@@ -163,6 +163,12 @@
       slide: cutoffSlide,
     });
 
+    // Forcibly clear form input so setCutoff's first run works properly in the
+    // case where the form field is preserved across page reload (e.g. Firefox).
+    // FIXME Should probably factor out the first-run logic so it can be called
+    // explicitly from graphReady rather than relying on this hack.
+    $('#cutoff').val("");
+
   });
 
 

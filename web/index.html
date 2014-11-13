@@ -41,9 +41,9 @@
         <!-- sh2 specific -->
         <link href="style.css" rel="stylesheet" />
         <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
-        <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
-        <script src="http://cytoscape.github.io/cytoscape.js/api/cytoscape.js-2.3.4/cytoscape.min.js"></script>
-        <script src="code.js"></script>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="http://cytoscape.github.io/cytoscape.js/api/cytoscape.js-2.3.4/cytoscape.min.js"></script>
+        <script type="text/javascript" src="code.js"></script>
         <title>
           An MSM model of SH2-phosphoprotein networks - HMS LINCS Project
         </title>
@@ -97,8 +97,10 @@
     proteins to phosphoproteins. The SH2/phosphoprotein identity is represented
     by color, and the tumor-suppressive/oncogenic nature of the proteins is
     represented by vertical and horizontal bars (see legend below).</p>
-    <p>The lower cutoff for P may be adjusted with the slider, and nodes may be
-    selected and moved manually to adjust the layout.</p>
+    <p>The lower cutoff for P may be adjusted with the <a href="#slider">slider</a>
+    underneath the graph, and nodes may be selected and moved manually to adjust
+    the layout. To zoom, use the mouse wheel. To pan, click any empty space and
+    hold until a gray circle appears, then move the mouse.</p>
 
     <div class="network-wrapper">
       <div class="loading-message">Loading...</div>
@@ -139,7 +141,7 @@
       </tr>
     </table>
 
-
+    <p class="powered-by">Powered by <a href="http://js.cytoscape.org/">cytoscape.js</a></p>
 
 
 			</div><!-- end content -->
