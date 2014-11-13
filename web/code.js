@@ -11,7 +11,7 @@
     var elements = data.elements;
 
     cy = cytoscape({
-      textureOnViewport: true,
+      hideEdgesOnViewport: true,
       pixelRatio: 1,
       motionBlur: false,
 
