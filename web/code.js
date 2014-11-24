@@ -47,8 +47,8 @@
   // Initialization ------------------------------------------------------------
 
   function init (data, _, _) {
-    initTissueMenu();
-    initGraph(data);
+    initTissueMenu(data.tissues);
+    initGraph(data.graph);
 
     updateWtCutoff($('#wt-slider').slider('value') / WT_SLIDER_SCALING);
     updateTiCutoff($('#ti-slider').slider('value'));
@@ -62,39 +62,10 @@
     window.CY = cy;
   }
 
-  function initTissueMenu () {
+  function initTissueMenu (tissues) {
 
-    // the tissue types below are in the order used in MAQ's data;
-    // hence, in this data, 1 corresponds to "Large Intestine", 2
-    // to "Lung", 3 to "Endometrium", etc.
-
-    var tissues = '\
-Large Intestine,\
-Lung,\
-Endometrium,\
-Skin,\
-Liver,\
-Breast,\
-Haematopoietic and Lymphoid Tissue,\
-Ovary,\
-Oesophagus,\
-Kidney,\
-Urinary Tract,\
-Prostate,\
-Central Nervous System,\
-Autonomic Ganglia,\
-Upper Aerodigestive Tract,\
-Pancreas,\
-Stomach,\
-Cervix,\
-Salivary Gland,\
-Bone,\
-Thyroid,\
-Meninges,\
-Adrenal Gland,\
-Soft Tissue'.trim().split(',');
-
-    // for the sake of usability, I will re-order these tissue types
+    // NB: the strings in `tissues` are in the order used in MAQ's
+    // data; for the sake of usability, I will re-order these tissues
     // in the dropdown menu, so that they are in alphabetical order
 
     tissues.map(function (e, i) {
@@ -350,9 +321,8 @@ Soft Tissue'.trim().split(',');
 
   $('document').ready(function() {
 
-    // Get exported json from cytoscape desktop via ajax.
-    // $.get('wt.cyjs', init, 'json');
-    $.get('wt_53_munged_again.cyjs', init, 'json');
+    // Get json data (including export from cytoscape desktop) via ajax.
+    $.get('data.json', init, 'json');
 
     // Set up slider for probability cutoff. Values are scaled because we need
     // floats but slider only provides ints.
