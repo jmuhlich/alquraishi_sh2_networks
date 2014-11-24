@@ -21,13 +21,13 @@
     initTissueMenu();
     initGraph(data);
 
-    setWtCutoff($('#wt-slider').slider('value') / WT_SLIDER_SCALING);
-    setTiCutoff($('#ti-slider').slider('value'));
+    updateWtCutoff($('#wt-slider').slider('value') / WT_SLIDER_SCALING);
+    updateTiCutoff($('#ti-slider').slider('value'));
 
     var tissue = TISSUE_DEFAULT;
     $('#ti-select option[value="' + tissue + '"]').attr('selected', 'selected');
     $('#ti-select').selectmenu('refresh');
-    setTissue(tissue);
+    updateTissue(tissue);
 
     // DEBUG
     window.CY = cy;
@@ -235,7 +235,7 @@ Soft Tissue'.trim().split(',');
   // Updating functions --------------------------------------------------------
 
   // Update UI with new wt-cutoff value.  `cutoff` is actual value - unscaled.
-  function setWtCutoff(cutoff) {
+  function updateWtCutoff(cutoff) {
     var old_cutoff = $('#wt-cutoff').val();
     // Convert from the string value the form field gives us into a float.
     if (old_cutoff == '') {
@@ -255,7 +255,7 @@ Soft Tissue'.trim().split(',');
     $('#wt-cutoff').val(cutoff_fmt);
   }
 
-  function setTiCutoff(cutoff) {
+  function updateTiCutoff(cutoff) {
     var old_cutoff = $('#ti-cutoff').val();
     applyTissueCutoffs(rankedElements(), parseInt(cutoff), parseInt(old_cutoff));
 
@@ -278,7 +278,7 @@ Soft Tissue'.trim().split(',');
     ranked_elements.filter(sel).toggleClass('ti-show ti-hide');
   }
 
-  function setTissue(tissue) {
+  function updateTissue(tissue) {
 
     var prop = 'class_' + tissue;
     var classes = ['one', 'two'];
@@ -336,7 +336,7 @@ Soft Tissue'.trim().split(',');
       max: WT_CUTOFF_MAX * WT_SLIDER_SCALING,
       slide: function(event, ui) {
         // Note that actual cutoff is computed by scaling the raw ui.value!
-        setWtCutoff(ui.value / WT_SLIDER_SCALING);
+        updateWtCutoff(ui.value / WT_SLIDER_SCALING);
       },
     });
 
@@ -345,13 +345,13 @@ Soft Tissue'.trim().split(',');
       min: TI_CUTOFF_MIN,
       max: TI_CUTOFF_MAX,
       slide: function(event, ui) {
-        setTiCutoff(ui.value);
+        updateTiCutoff(ui.value);
       },
     });
 
     $('#ti-select').selectmenu({
       select: function(event, ui) {
-        setTissue(ui.item.value);
+        updateTissue(ui.item.value);
       },
     });
 
