@@ -13,6 +13,35 @@
   var TISSUE_DEFAULT = '01';
 
   // ---------------------------------------------------------------------------
+
+  // UI controller
+  var UI = (function () {
+    // http://stackoverflow.com/a/10425344
+    function toCamelCase(s) {
+      return s.replace(/-(.)/g, function (match, group1) {
+        return group1.toUpperCase();
+      });
+    }
+
+    function makeGetter(selector) {
+      return function () { return $(selector).val(); }
+    }
+
+    function makeSetter(selector) {
+      return function (value) { $(selector).val(value); };
+    }
+
+    var ids = ['wt-cutoff', 'ti-cutoff', 'tissue'];
+    var obj = {};
+
+    ids.forEach(function (id, _) {
+      obj[toCamelCase('get-' + id)] = makeGetter('#' + id);
+      obj[toCamelCase('set-' + id)] = makeSetter('#' + id);
+    });
+
+    return obj;
+  })();
+
   var cy;
 
   // Initialization ------------------------------------------------------------
@@ -236,7 +265,7 @@ Soft Tissue'.trim().split(',');
 
   // Update UI with new wt-cutoff value.  `cutoff` is actual value - unscaled.
   function updateWtCutoff(cutoff) {
-    var old_cutoff = $('#wt-cutoff').val();
+    var old_cutoff = UI.getWtCutoff();
     // Convert from the string value the form field gives us into a float.
     if (old_cutoff == '') {
       // If the field was empty, this is the first time we've been called.
@@ -252,15 +281,15 @@ Soft Tissue'.trim().split(',');
     // Use .toFixed so that e.g. 0.9 becomes "0.90".
     var cutoff_fmt = cutoff.toFixed(WT_SLIDER_PREC_DIGITS);
     // Set form field which displays the value to the user.
-    $('#wt-cutoff').val(cutoff_fmt);
+    UI.setWtCutoff(cutoff_fmt);
   }
 
   function updateTiCutoff(cutoff) {
-    var old_cutoff = $('#ti-cutoff').val();
+    var old_cutoff = UI.getTiCutoff();
     applyTissueCutoffs(rankedElements(), parseInt(cutoff), parseInt(old_cutoff));
 
     // Set form field which displays the value to the user.
-    $('#ti-cutoff').val(cutoff);
+    UI.setTiCutoff(cutoff);
   }
 
   function applyTissueCutoffs(ranked_elements, a, b) {
@@ -272,7 +301,7 @@ Soft Tissue'.trim().split(',');
       }
     }
 
-    var prop = 'rank_' + getTissue();
+    var prop = 'rank_' + UI.getTissue();
     var sel = makeIntervalSelector(prop, a, b);
 
     ranked_elements.filter(sel).toggleClass('ti-show ti-hide');
@@ -287,7 +316,8 @@ Soft Tissue'.trim().split(',');
       .removeClass(classes.concat(['ti-show']).join(' '))
       .addClass('ti-hide');
 
-    $('#tissue').val(tissue);
+    UI.setTissue(tissue);
+
     var $ranked_eles = rankedElements();
     $ranked_eles.addClass('ti-hide');
 
@@ -297,20 +327,16 @@ Soft Tissue'.trim().split(',');
       $ranked_edges.filter('[' + prop + '=' + val + ']').addClass(clss);
     });
 
-    applyTissueCutoffs($ranked_eles, parseInt($('#ti-cutoff').val()));
+    applyTissueCutoffs($ranked_eles, parseInt(UI.getTiCutoff()));
   }
 
   // ---------------------------------------------------------------------------
 
   function rankedElements() {
-    var prop = 'rank_' + getTissue();
+    var prop = 'rank_' + UI.getTissue();
     return cy.elements().filter(function (_, e) {
       return e.data()[prop] !== undefined;
     });
-  }
-
-  function getTissue() {
-    return $('#tissue').val();
   }
 
   function makeIntervalSelector(property, a, b) {
@@ -360,8 +386,8 @@ Soft Tissue'.trim().split(',');
     // FIXME Should probably factor out the first-run logic so it can be called
     // explicitly from graph's `ready` handler rather than relying on this hack.
 
-    $('#wt-cutoff').val('');
-    $('#ti-cutoff').val('');
+    UI.setWtCutoff('');
+    UI.setTiCutoff('');
   });
 
 
