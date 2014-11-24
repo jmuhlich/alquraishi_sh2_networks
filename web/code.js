@@ -24,11 +24,11 @@
     }
 
     function makeGetter(selector) {
-      return function () { return $(selector).val(); }
+      return function () { return $(selector).html(); }
     }
 
     function makeSetter(selector) {
-      return function (value) { $(selector).val(value); };
+      return function (value) { $(selector).html(value); };
     }
 
     var ids = ['wt-cutoff', 'ti-cutoff', 'tissue'];

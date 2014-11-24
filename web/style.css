@@ -76,7 +76,7 @@ td.ui-label {
   margin: 1em;
 }
 
-.slider-wrapper input {
+.slider-wrapper span {
   width: 3em;
   border: 0;
   font-weight: bold;
