@@ -11,6 +11,10 @@
   line-height: 1.3em;
 }
 
+.ui-controls-wrapper {
+  width: 100%;
+}
+
 .network-wrapper {
   float: left;
   margin-right: 20px;
@@ -27,29 +31,20 @@
   margin: 1em;
 }
 
-#cutoff {
-  width: 2.2em;
-  border: 0;
-  font-weight: bold;
-}
-
-#slider {
-  margin-left: 1em;
-  width: 300px;
-  display: inline-block;
-}
-
-#content .legend {
+#content table {
   border: 0;
 }
 
-#content .legend tr:nth-child(even) {
+#content table tr:nth-child(even) {
   background-color: inherit;
+}
+
+#content table td {
+  border-right: 0;
 }
 
 #content .legend td {
   padding: 5px;
-  border-right: 0;
 }
 
 .loading-message {
@@ -66,3 +61,40 @@
   font-style: italic;
   margin-top: 2em;
 }
+
+/* ------------------------------------------------------------------------- */
+
+.ui-controls td {
+  padding: 3px;
+}
+
+td.ui-label {
+  float: right;
+}
+
+.slider-wrapper, .select-wrapper {
+  margin: 1em;
+}
+
+.slider-wrapper input {
+  width: 3em;
+  border: 0;
+  font-weight: bold;
+}
+
+.slider-div, select {
+  width: 320px;
+  display: inline-block;
+}
+
+/* ------------------------------------------------------------------------- */
+
+#select-menu-label {
+  margin-top: 10px;  /* only way I could get #select-menu-label to look
+                        vertically centered */
+  /*
+    vertical-align: middle !important;
+  */ /* does not work! */
+}
+
+/* ------------------------------------------------------------------------- */
