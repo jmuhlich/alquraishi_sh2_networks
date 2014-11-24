@@ -21,8 +21,8 @@
     initTissueMenu();
     initGraph(data);
 
-    setWtCutoff($('#wt-slider').slider("value") / WT_SLIDER_SCALING);
-    setTiCutoff($('#ti-slider').slider("value"));
+    setWtCutoff($('#wt-slider').slider('value') / WT_SLIDER_SCALING);
+    setTiCutoff($('#ti-slider').slider('value'));
 
     var tissue = TISSUE_DEFAULT;
     $('#ti-select option[value="' + tissue + '"]').attr('selected', 'selected');
@@ -236,9 +236,9 @@ Soft Tissue'.trim().split(',');
 
   // Update UI with new wt-cutoff value.  `cutoff` is actual value - unscaled.
   function setWtCutoff(cutoff) {
-    var old_cutoff = $("#wt-cutoff").val();
+    var old_cutoff = $('#wt-cutoff').val();
     // Convert from the string value the form field gives us into a float.
-    if (old_cutoff == "") {
+    if (old_cutoff == '') {
       // If the field was empty, this is the first time we've been called.
       // Pretend we're sliding up from 0 (the lowest possible probability value)
       // so all of the lower-probability nodes will be revealed.
@@ -252,7 +252,7 @@ Soft Tissue'.trim().split(',');
     // Use .toFixed so that e.g. 0.9 becomes "0.90".
     var cutoff_fmt = cutoff.toFixed(WT_SLIDER_PREC_DIGITS);
     // Set form field which displays the value to the user.
-    $("#wt-cutoff").val(cutoff_fmt);
+    $('#wt-cutoff').val(cutoff_fmt);
   }
 
   function setTiCutoff(cutoff) {
@@ -322,7 +322,7 @@ Soft Tissue'.trim().split(',');
 
   // ---------------------------------------------------------------------------
 
-  $("document").ready(function() {
+  $('document').ready(function() {
 
     // Get exported json from cytoscape desktop via ajax.
     // $.get('wt.cyjs', init, 'json');
@@ -330,7 +330,7 @@ Soft Tissue'.trim().split(',');
 
     // Set up slider for probability cutoff. Values are scaled because we need
     // floats but slider only provides ints.
-    $("#wt-slider").slider({
+    $('#wt-slider').slider({
       value: WT_CUTOFF_DEFAULT * WT_SLIDER_SCALING,
       min: WT_CUTOFF_MIN * WT_SLIDER_SCALING,
       max: WT_CUTOFF_MAX * WT_SLIDER_SCALING,
@@ -340,7 +340,7 @@ Soft Tissue'.trim().split(',');
       },
     });
 
-    $("#ti-slider").slider({
+    $('#ti-slider').slider({
       value: TI_CUTOFF_DEFAULT,
       min: TI_CUTOFF_MIN,
       max: TI_CUTOFF_MAX,
@@ -360,8 +360,8 @@ Soft Tissue'.trim().split(',');
     // FIXME Should probably factor out the first-run logic so it can be called
     // explicitly from graph's `ready` handler rather than relying on this hack.
 
-    $('#wt-cutoff').val("");
-    $('#ti-cutoff').val("");
+    $('#wt-cutoff').val('');
+    $('#ti-cutoff').val('');
   });
 
 
