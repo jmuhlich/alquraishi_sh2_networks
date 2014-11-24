@@ -25,6 +25,10 @@ Build instructions
 
 * To build the web content:
 
+  #. Merge graph (.cyjs) file with tissue data::
+
+     python src/add_tissue_data_to_graph.py data/wt_53.cyjs data/tmat_40.tsv > output/web/data.json
+
   #. Run `src/build_web.sh`
   #. View `output/web/index.html`
 
