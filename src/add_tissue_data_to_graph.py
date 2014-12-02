@@ -12,9 +12,6 @@ OUTPUT_DIR = PROJECT_DIR.child('output')
 GENES = DATA_DIR.child('genes.tsv')
 TISSUES = DATA_DIR.child('tissues.tsv')
 
-def strip_trailing_ws(s, re_=re.compile(r'\s+$', re.MULTILINE)):
-    return re_.sub('', s)
-
 def extract_df(df, col, v):
     keep = [k for k in df.columns if k != col]
     return df[df.loc[:, col]==v].loc[:, keep]
@@ -33,22 +30,26 @@ def tissuesfx(i):
     return '%02d' % i
 
 def main(cyjsfile, tmatfile):
+
     with open(TISSUES) as fh:
         tissues = tuple(map(str.strip, fh))
-
     tissue_id = dict((w, i + 1) for i, w in enumerate(tissues))
 
     with open(GENES) as fh:
         genes = tuple(map(str.strip, fh))
-
     gene_idx = dict((w, i + 1) for i, w in enumerate(genes))
+
     with open(cyjsfile) as fh:
         graph = json.load(fh)
+
+    gid_to_gene_idx = {n[u'data'][u'id']: gene_idx[n['data']['name']]
+                       for n in graph[u'elements'][u'nodes']}
 
     edges = dict()
     for edge in graph[u'elements'][u'edges']:
         d = edge[u'data']
-        s, t = [gene_idx[n] for n in d[u'name'].split(' (pp) ')]
+        s = gid_to_gene_idx[d['source']]
+        t = gid_to_gene_idx[d['target']]
         es = edges.setdefault(s, dict())
         assert not t in es
         es[t] = d
@@ -81,7 +82,7 @@ def main(cyjsfile, tmatfile):
         d = vertex[u'data']
         d.update(vrank.get(gene_idx[d[u'name']], dict()))
 
-    print strip_trailing_ws(json.dumps(dict(tissues=tissues, graph=graph),
-                                       indent=2))
+    print json.dumps(dict(tissues=tissues, graph=graph),
+                     indent=2, separators=(',', ': '))
 
 main(*sys.argv[1:])
