@@ -96,11 +96,6 @@
 
       container: document.getElementById('cy'),
 
-      /*
-        green = RGBColor[127/255, 209/255, 59/255],
-        orange = RGBColor[254/255, 184/255, 10/255]
-      */
-
       style: cytoscape.stylesheet()
         .selector('node')
           .css({
@@ -123,17 +118,17 @@
           })
         .selector('node[?is_onco][!is_ts]')
           .css({
-            'background-image': 'node_oncogene.svg',
+            'background-image': 'img/node_onco.png',
             'background-fit': 'cover',
           })
         .selector('node[!is_onco][?is_ts]')
           .css({
-            'background-image': 'node_tumorsuppressor.svg',
+            'background-image': 'img/node_supp.png',
             'background-fit': 'cover',
           })
         .selector('node[?is_onco][?is_ts]')
           .css({
-            'background-image': 'node_both.svg',
+            'background-image': 'img/node_supponco.png',
             'background-fit': 'cover',
           })
         .selector('edge')
@@ -179,15 +174,15 @@
           .css({
             'width': 5,
           })
-        .selector('edge.ti-show.one')
+        .selector('edge.ti-show.one') // gain
           .css({
-            'line-color': '#7fd13b', /* green = RGBColor[127/255, 209/255, 59/255] */
-            'mid-target-arrow-color': '#7fd13b',
+            'line-color': 'rgb(127, 209, 59)', // green
+            'mid-target-arrow-color': 'rgb(127, 209, 59)',
           })
-        .selector('edge.ti-show.two')
+        .selector('edge.ti-show.two') // loss
           .css({
-            'line-color': '#feb80a', /* orange = RGBColor[254/255, 184/255, 10/255] */
-            'mid-target-arrow-color': '#feb80a',
+            'line-color': 'rgb(254, 184, 10)', // orange
+            'mid-target-arrow-color': 'rgb(254, 184, 10)',
           })
         // .selector('edge:selected')
         //   .css({
