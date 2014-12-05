@@ -184,12 +184,6 @@
             'line-color': 'rgb(254, 184, 10)', // orange
             'mid-target-arrow-color': 'rgb(254, 184, 10)',
           })
-        // .selector('edge:selected')
-        //   .css({
-        //     'content': 'data(probability_rounded)',
-        //     'font-size': 20,
-        //     'font-style': 'italic',
-        //   })
         .selector(':selected')
          .css({
            'border-color': 'black',
@@ -217,10 +211,6 @@
       var edges = ele.neighborhood('edge');
       var pmax = edges.max(function(ele) { return ele.data('probability'); });
       ele.data('probability', pmax.value);
-    });
-    // Add a property with the probability rounded to 3 places for display.
-    cy.edges().each(function(i, ele) {
-      ele.data('probability_rounded', ele.data('probability').toFixed(3));
     });
 
     cy.elements().addClass('wt-show ti-hide');
