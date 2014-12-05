@@ -92,15 +92,20 @@
     </div>
 
     <p>This network depicts the Multiscale Statistical Mechanical Protein model
-    (MSM/P) predictions of all interaction probabilities between SH2 proteins
-    and phosphoproteins with P &gt; 0.85. The edges are directed from SH2
-    proteins to phosphoproteins. The SH2/phosphoprotein identity is represented
-    by color, and the tumor-suppressive/oncogenic nature of the proteins is
-    represented by vertical and horizontal bars (see legend below).</p>
-    <p>The lower cutoff for P may be adjusted with the <a href="#slider">slider</a>
-    underneath the graph, and nodes may be selected and moved manually to adjust
-    the layout. To zoom, use the mouse wheel. To pan, click any empty space and
-    hold until a gray circle appears, then move the mouse.</p>
+    (MSM/P) wild-type SH2 phosphosignaling network (gray edges) overlaid with
+    the model's top predictions of interactions lost and gained (orange and
+    green edges, respectively) for tumors of a given tissue type. The edges are
+    directed from SH2 proteins to phosphoproteins. The SH2/phosphoprotein
+    classification is represented by node color, and the
+    tumor-suppressive/oncogenic nature of the proteins is represented by
+    vertical and horizontal bars.</p>
+    <p>Gain/loss predictions for any of 24 tissue types may be displayed by
+    choosing from the "Select a tissue" menu. The number of edge gain/loss
+    predictions may be adjusted with the "Number of gain/loss predictions"
+    slider. The number of edges from the wild-type network may be adjusted with
+    the "Wild-type network stringency" slider. Nodes may be selected and moved
+    manually to adjust the layout. To zoom, use the mouse wheel. To pan, click
+    any empty space and hold until a gray circle appears, then move the mouse.</p>
 
     <div id="network-viewer">
 
@@ -114,15 +119,15 @@
         </tr>
 
         <tr class="slider-wrapper">
-          <td class="ui-label"><label for="wt-cutoff">Probability cutoff:</label></td>
-          <td><div class="slider-div" id="wt-slider"></div></td>
-          <td><span id="wt-cutoff"></span></td>
+          <td class="ui-label"><label for="ti-cutoff">Number of gain/loss predictions:</label></td>
+          <td><div class="slider-div" id="ti-slider"></div></td>
+          <td><span id="ti-cutoff"></span></td>
         </tr>
 
         <tr class="slider-wrapper">
-          <td class="ui-label"><label for="ti-cutoff">Number of perturbed edges:</label></td>
-          <td><div class="slider-div" id="ti-slider"></div></td>
-          <td><span id="ti-cutoff"></span></td>
+          <td class="ui-label"><label for="wt-cutoff">Wild-type network stringency:</label></td>
+          <td><div class="slider-div" id="wt-slider"></div></td>
+          <td><span id="wt-cutoff"></span></td>
         </tr>
 
       </table>
