@@ -1,0 +1,126 @@
+{% extends "base.html" %}
+
+{% block head_extra %}
+    {{ block.super }}
+    <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}ext/jquery-ui/1.11.4/jquery-ui.min.css"/>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script>
+     require.config({
+         paths: {
+             scn: '../explore/sh2-cancer-networks',
+         },
+     });
+     require(['scn/code']);
+    </script>
+{% endblock %}
+
+{% block title %}
+    An MSM model of SH2-phosphoprotein networks
+{% endblock %}
+
+{% block contentclass %}fullwidth{% endblock %}
+
+{% block body %}
+
+    <h1>An MSM model of SH2-phosphoprotein networks</h1>
+    <div class="subtitle-wrap">
+      <h2>A multiscale statistical mechanical framework integrates biophysical and
+        genomic data to assemble cancer networks</h2>
+      <p>Mohammed AlQuraishi<sup>1,2*</sup>, Grigoriy Koytiger<sup>1*</sup>, Anne Jenney<sup>1</sup>, Gavin MacBeath<sup>2</sup>, and Peter K. Sorger<sup>1</sup></p>
+      <p><sup>1</sup>HMS Laboratory of Systems Pharmacology; <sup>2</sup>HMS Department of Systems Biology</p>
+      <p>doi:<a href="http://dx.doi.org/10.1038/ng.3138">10.1038/ng.3138</a></p>
+    </div>
+
+    <p>This network depicts the Multiscale Statistical Mechanical Protein model
+    (MSM/P) wild-type SH2 phosphosignaling network (gray edges) overlaid with
+    the model's top predictions of interactions lost and gained (orange and
+    green edges, respectively) for tumors of a given tissue type. The edges are
+    directed from SH2 proteins to phosphoproteins. The SH2/phosphoprotein
+    classification is represented by node color, and the
+    tumor-suppressive/oncogenic nature of the proteins is represented by
+    vertical and horizontal bars.</p>
+    <p>Gain/loss predictions for any of 24 tissue types may be displayed by
+    choosing from the "Select a tissue" menu. The number of edge gain/loss
+    predictions may be adjusted with the "Number of gain/loss predictions"
+    slider. The number of edges from the wild-type network may be adjusted with
+    the "Wild-type network stringency" slider. Nodes may be selected and moved
+    manually to adjust the layout. To zoom, use the mouse wheel. To pan, click
+    any empty space and hold until a gray circle appears, then move the mouse.</p>
+
+    <div id="network-viewer">
+
+    <div class="ui-controls-wrapper">
+      <table class="ui-controls">
+
+        <tr class="select-wrapper">
+          <td class="ui-label" id="select-menu-label"><label for="ti-select">Select a tissue:</label></td>
+          <td><select name="ti-select" id="ti-select"></select></td>
+          <td><span id="tissue" style="display:none"></span></td>
+        </tr>
+
+        <tr class="slider-wrapper">
+          <td class="ui-label"><label for="ti-cutoff">Number of gain/loss predictions:</label></td>
+          <td><div class="slider-div" id="ti-slider"></div></td>
+          <td><span id="ti-cutoff"></span></td>
+        </tr>
+
+        <tr class="slider-wrapper">
+          <td class="ui-label"><label for="wt-cutoff">Wild-type network stringency:</label></td>
+          <td><div class="slider-div" id="wt-slider"></div></td>
+          <td><span id="wt-cutoff"></span></td>
+        </tr>
+
+      </table>
+    </div>
+
+    <div class="network-wrapper">
+
+      <div class="loading-message">Loading...</div>
+
+      <div id="cy"></div>
+    </div>
+
+
+    <h2>Legend</h2>
+    <table class="legend">
+      <tr>
+        <td><img src="img/legend_node_pp.png"></td>
+        <td>Phosphoprotein</td>
+      </tr>
+      <tr>
+        <td><img src="img/legend_node_sh2.png"></td>
+        <td>SH2 domain-containing protein</td>
+      </tr>
+      <tr>
+        <td><img src="img/legend_node_ppsh2.png"></td>
+        <td>Both</td>
+      </tr>
+      <tr><td><!-- spacer --></td></tr>
+      <tr>
+        <td><img src="img/legend_node_supp.png"></td>
+        <td>Tumor suppressor</td>
+      </tr>
+      <tr>
+        <td><img src="img/legend_node_onco.png"></td>
+        <td>Oncoprotein</td>
+      </tr>
+      <tr>
+        <td><img src="img/legend_node_supponco.png"></td>
+        <td>Both</td>
+      </tr>
+      <tr><td><!-- spacer --></td></tr>
+      <tr>
+        <td><img src="img/legend_edge_loss.png"></td>
+        <td>Loss</td>
+      </tr>
+      <tr>
+        <td><img src="img/legend_edge_gain.png"></td>
+        <td>Gain</td>
+      </tr>
+    </table>
+
+    <p class="powered-by">Powered by <a href="http://js.cytoscape.org/">cytoscape.js</a></p>
+
+    </div> <!-- #network-viewer -->
+
+{% endblock %}

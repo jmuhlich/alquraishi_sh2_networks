@@ -1,4 +1,5 @@
-(function($, window, document) {
+define(['jquery', 'jqueryui', 'cytoscape'],
+       function($, jqueryui, cytoscape) {
 
   var WT_SLIDER_PREC_DIGITS = 2;
   var WT_SLIDER_SCALING = Math.pow(10, WT_SLIDER_PREC_DIGITS);
@@ -304,7 +305,7 @@
 
   // ---------------------------------------------------------------------------
 
-  $('document').ready(function() {
+  $(function() {
 
     // Get json data (including export from cytoscape desktop) via ajax.
     $.get('data.json', init, 'json');
@@ -346,4 +347,4 @@
   });
 
 
-}(jQuery, window, document));
+});

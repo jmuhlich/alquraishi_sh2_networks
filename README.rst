@@ -3,7 +3,8 @@ Project layout
 * data: Original source data, consider this read-only.
 * output: Generated data files, do not check in anything in here.
 * src: Source code for data processing.
-* web: Resources for the web UI.
+* static: Static resources for the web UI.
+* templates: Django templates for the web UI.
 
 Build instructions
 ==================
